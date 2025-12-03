@@ -1,0 +1,671 @@
+2025-12-02 19:34:26,807 - INFO - ImageCompressor initialized
+2025-12-02 19:34:26,807 - INFO - Raw folder: raw
+2025-12-02 19:34:26,807 - INFO - Converted folder: converted
+2025-12-02 19:34:26,808 - INFO - Quality setting: 85
+2025-12-02 19:34:26,808 - INFO - ============================================================
+2025-12-02 19:34:26,808 - INFO - Starting batch compression
+2025-12-02 19:34:26,808 - INFO - ============================================================
+2025-12-02 19:34:26,809 - INFO - Found 94 images to process
+2025-12-02 19:34:26,809 - INFO - Processing: IMG_4676.jpg
+2025-12-02 19:34:26,811 - INFO - Original size: 13.68 MB
+2025-12-02 19:34:26,870 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:27,481 - INFO - Compressed size: 3.10 MB
+2025-12-02 19:34:27,481 - INFO - Size reduction: 77.3%
+2025-12-02 19:34:27,481 - INFO - Successfully saved to: converted\IMG_4676.jpg
+2025-12-02 19:34:27,481 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:27,489 - INFO - Processing: IMG_4677.jpg
+2025-12-02 19:34:27,489 - INFO - Original size: 13.40 MB
+2025-12-02 19:34:27,494 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:28,117 - INFO - Compressed size: 3.33 MB
+2025-12-02 19:34:28,117 - INFO - Size reduction: 75.2%
+2025-12-02 19:34:28,117 - INFO - Successfully saved to: converted\IMG_4677.jpg
+2025-12-02 19:34:28,117 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:28,125 - INFO - Processing: IMG_4679.jpg
+2025-12-02 19:34:28,126 - INFO - Original size: 11.64 MB
+2025-12-02 19:34:28,131 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:28,714 - INFO - Compressed size: 2.93 MB
+2025-12-02 19:34:28,715 - INFO - Size reduction: 74.8%
+2025-12-02 19:34:28,715 - INFO - Successfully saved to: converted\IMG_4679.jpg
+2025-12-02 19:34:28,715 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:28,724 - INFO - Processing: IMG_4680.jpg
+2025-12-02 19:34:28,725 - INFO - Original size: 11.73 MB
+2025-12-02 19:34:28,727 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:29,298 - INFO - Compressed size: 3.06 MB
+2025-12-02 19:34:29,298 - INFO - Size reduction: 73.9%
+2025-12-02 19:34:29,299 - INFO - Successfully saved to: converted\IMG_4680.jpg
+2025-12-02 19:34:29,299 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:29,307 - INFO - Processing: IMG_4681.jpg
+2025-12-02 19:34:29,307 - INFO - Original size: 11.30 MB
+2025-12-02 19:34:29,313 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:29,870 - INFO - Compressed size: 2.85 MB
+2025-12-02 19:34:29,870 - INFO - Size reduction: 74.8%
+2025-12-02 19:34:29,870 - INFO - Successfully saved to: converted\IMG_4681.jpg
+2025-12-02 19:34:29,870 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:29,879 - INFO - Processing: IMG_4682.jpg
+2025-12-02 19:34:29,879 - INFO - Original size: 11.22 MB
+2025-12-02 19:34:29,884 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:30,437 - INFO - Compressed size: 2.79 MB
+2025-12-02 19:34:30,438 - INFO - Size reduction: 75.1%
+2025-12-02 19:34:30,438 - INFO - Successfully saved to: converted\IMG_4682.jpg
+2025-12-02 19:34:30,438 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:30,447 - INFO - Processing: IMG_4683.jpg
+2025-12-02 19:34:30,447 - INFO - Original size: 11.88 MB
+2025-12-02 19:34:30,452 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:31,049 - INFO - Compressed size: 3.07 MB
+2025-12-02 19:34:31,049 - INFO - Size reduction: 74.1%
+2025-12-02 19:34:31,050 - INFO - Successfully saved to: converted\IMG_4683.jpg
+2025-12-02 19:34:31,050 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:31,058 - INFO - Processing: IMG_4684.jpg
+2025-12-02 19:34:31,058 - INFO - Original size: 14.55 MB
+2025-12-02 19:34:31,063 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:31,693 - INFO - Compressed size: 3.49 MB
+2025-12-02 19:34:31,694 - INFO - Size reduction: 76.0%
+2025-12-02 19:34:31,694 - INFO - Successfully saved to: converted\IMG_4684.jpg
+2025-12-02 19:34:31,694 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:31,703 - INFO - Processing: IMG_4690.jpg
+2025-12-02 19:34:31,703 - INFO - Original size: 9.49 MB
+2025-12-02 19:34:31,709 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:32,269 - INFO - Compressed size: 2.93 MB
+2025-12-02 19:34:32,269 - INFO - Size reduction: 69.1%
+2025-12-02 19:34:32,269 - INFO - Successfully saved to: converted\IMG_4690.jpg
+2025-12-02 19:34:32,270 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:32,277 - INFO - Processing: IMG_4691.jpg
+2025-12-02 19:34:32,277 - INFO - Original size: 10.56 MB
+2025-12-02 19:34:32,279 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:32,872 - INFO - Compressed size: 3.24 MB
+2025-12-02 19:34:32,872 - INFO - Size reduction: 69.3%
+2025-12-02 19:34:32,872 - INFO - Successfully saved to: converted\IMG_4691.jpg
+2025-12-02 19:34:32,872 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:32,880 - INFO - Processing: IMG_4692.jpg
+2025-12-02 19:34:32,880 - INFO - Original size: 9.62 MB
+2025-12-02 19:34:32,885 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:33,424 - INFO - Compressed size: 2.82 MB
+2025-12-02 19:34:33,424 - INFO - Size reduction: 70.6%
+2025-12-02 19:34:33,424 - INFO - Successfully saved to: converted\IMG_4692.jpg
+2025-12-02 19:34:33,425 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:33,433 - INFO - Processing: IMG_4693.jpg
+2025-12-02 19:34:33,434 - INFO - Original size: 15.02 MB
+2025-12-02 19:34:33,439 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:34,061 - INFO - Compressed size: 3.38 MB
+2025-12-02 19:34:34,061 - INFO - Size reduction: 77.5%
+2025-12-02 19:34:34,062 - INFO - Successfully saved to: converted\IMG_4693.jpg
+2025-12-02 19:34:34,062 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:34,070 - INFO - Processing: IMG_4695.jpg
+2025-12-02 19:34:34,070 - INFO - Original size: 16.52 MB
+2025-12-02 19:34:34,075 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:34,767 - INFO - Compressed size: 4.07 MB
+2025-12-02 19:34:34,768 - INFO - Size reduction: 75.3%
+2025-12-02 19:34:34,768 - INFO - Successfully saved to: converted\IMG_4695.jpg
+2025-12-02 19:34:34,768 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:34,776 - INFO - Processing: IMG_4698.jpg
+2025-12-02 19:34:34,776 - INFO - Original size: 12.54 MB
+2025-12-02 19:34:34,781 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:35,406 - INFO - Compressed size: 3.47 MB
+2025-12-02 19:34:35,406 - INFO - Size reduction: 72.3%
+2025-12-02 19:34:35,406 - INFO - Successfully saved to: converted\IMG_4698.jpg
+2025-12-02 19:34:35,407 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:35,415 - INFO - Processing: IMG_4700.jpg
+2025-12-02 19:34:35,415 - INFO - Original size: 12.24 MB
+2025-12-02 19:34:35,421 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:36,052 - INFO - Compressed size: 3.17 MB
+2025-12-02 19:34:36,052 - INFO - Size reduction: 74.1%
+2025-12-02 19:34:36,052 - INFO - Successfully saved to: converted\IMG_4700.jpg
+2025-12-02 19:34:36,053 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:36,061 - INFO - Processing: IMG_4703.jpg
+2025-12-02 19:34:36,061 - INFO - Original size: 15.63 MB
+2025-12-02 19:34:36,066 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:36,775 - INFO - Compressed size: 4.78 MB
+2025-12-02 19:34:36,775 - INFO - Size reduction: 69.4%
+2025-12-02 19:34:36,776 - INFO - Successfully saved to: converted\IMG_4703.jpg
+2025-12-02 19:34:36,776 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:36,785 - INFO - Processing: IMG_4704.jpg
+2025-12-02 19:34:36,785 - INFO - Original size: 14.85 MB
+2025-12-02 19:34:36,790 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:37,473 - INFO - Compressed size: 4.22 MB
+2025-12-02 19:34:37,473 - INFO - Size reduction: 71.6%
+2025-12-02 19:34:37,473 - INFO - Successfully saved to: converted\IMG_4704.jpg
+2025-12-02 19:34:37,473 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:37,483 - INFO - Processing: IMG_4707.jpg
+2025-12-02 19:34:37,483 - INFO - Original size: 13.11 MB
+2025-12-02 19:34:37,485 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:38,073 - INFO - Compressed size: 2.76 MB
+2025-12-02 19:34:38,073 - INFO - Size reduction: 78.9%
+2025-12-02 19:34:38,073 - INFO - Successfully saved to: converted\IMG_4707.jpg
+2025-12-02 19:34:38,074 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:38,082 - INFO - Processing: IMG_4710.jpg
+2025-12-02 19:34:38,082 - INFO - Original size: 9.86 MB
+2025-12-02 19:34:38,087 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:38,598 - INFO - Compressed size: 2.30 MB
+2025-12-02 19:34:38,598 - INFO - Size reduction: 76.7%
+2025-12-02 19:34:38,599 - INFO - Successfully saved to: converted\IMG_4710.jpg
+2025-12-02 19:34:38,599 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:38,608 - INFO - Processing: IMG_4711.jpg
+2025-12-02 19:34:38,608 - INFO - Original size: 9.79 MB
+2025-12-02 19:34:38,614 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:39,134 - INFO - Compressed size: 2.29 MB
+2025-12-02 19:34:39,134 - INFO - Size reduction: 76.6%
+2025-12-02 19:34:39,134 - INFO - Successfully saved to: converted\IMG_4711.jpg
+2025-12-02 19:34:39,134 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:39,142 - INFO - Processing: IMG_4713.jpg
+2025-12-02 19:34:39,143 - INFO - Original size: 14.62 MB
+2025-12-02 19:34:39,148 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:39,821 - INFO - Compressed size: 3.67 MB
+2025-12-02 19:34:39,821 - INFO - Size reduction: 74.9%
+2025-12-02 19:34:39,821 - INFO - Successfully saved to: converted\IMG_4713.jpg
+2025-12-02 19:34:39,821 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:39,830 - INFO - Processing: IMG_4714.jpg
+2025-12-02 19:34:39,830 - INFO - Original size: 14.98 MB
+2025-12-02 19:34:39,835 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:40,511 - INFO - Compressed size: 3.81 MB
+2025-12-02 19:34:40,511 - INFO - Size reduction: 74.6%
+2025-12-02 19:34:40,511 - INFO - Successfully saved to: converted\IMG_4714.jpg
+2025-12-02 19:34:40,512 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:40,520 - INFO - Processing: IMG_4715.jpg
+2025-12-02 19:34:40,520 - INFO - Original size: 15.64 MB
+2025-12-02 19:34:40,525 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:41,207 - INFO - Compressed size: 3.89 MB
+2025-12-02 19:34:41,208 - INFO - Size reduction: 75.1%
+2025-12-02 19:34:41,208 - INFO - Successfully saved to: converted\IMG_4715.jpg
+2025-12-02 19:34:41,208 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:41,216 - INFO - Processing: IMG_4717.jpg
+2025-12-02 19:34:41,217 - INFO - Original size: 13.50 MB
+2025-12-02 19:34:41,222 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:41,845 - INFO - Compressed size: 3.16 MB
+2025-12-02 19:34:41,845 - INFO - Size reduction: 76.6%
+2025-12-02 19:34:41,846 - INFO - Successfully saved to: converted\IMG_4717.jpg
+2025-12-02 19:34:41,846 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:41,855 - INFO - Processing: IMG_4718.jpg
+2025-12-02 19:34:41,855 - INFO - Original size: 15.17 MB
+2025-12-02 19:34:41,861 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:42,528 - INFO - Compressed size: 3.73 MB
+2025-12-02 19:34:42,529 - INFO - Size reduction: 75.4%
+2025-12-02 19:34:42,529 - INFO - Successfully saved to: converted\IMG_4718.jpg
+2025-12-02 19:34:42,529 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:42,537 - INFO - Processing: IMG_4719.jpg
+2025-12-02 19:34:42,537 - INFO - Original size: 13.55 MB
+2025-12-02 19:34:42,543 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:43,208 - INFO - Compressed size: 3.48 MB
+2025-12-02 19:34:43,208 - INFO - Size reduction: 74.3%
+2025-12-02 19:34:43,208 - INFO - Successfully saved to: converted\IMG_4719.jpg
+2025-12-02 19:34:43,209 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:43,218 - INFO - Processing: IMG_4720.jpg
+2025-12-02 19:34:43,218 - INFO - Original size: 17.85 MB
+2025-12-02 19:34:43,224 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:43,961 - INFO - Compressed size: 4.37 MB
+2025-12-02 19:34:43,961 - INFO - Size reduction: 75.5%
+2025-12-02 19:34:43,961 - INFO - Successfully saved to: converted\IMG_4720.jpg
+2025-12-02 19:34:43,961 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:43,969 - INFO - Processing: IMG_4721.jpg
+2025-12-02 19:34:43,969 - INFO - Original size: 11.28 MB
+2025-12-02 19:34:43,974 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:44,590 - INFO - Compressed size: 3.28 MB
+2025-12-02 19:34:44,591 - INFO - Size reduction: 70.9%
+2025-12-02 19:34:44,591 - INFO - Successfully saved to: converted\IMG_4721.jpg
+2025-12-02 19:34:44,591 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:44,599 - INFO - Processing: IMG_4723.jpg
+2025-12-02 19:34:44,600 - INFO - Original size: 17.42 MB
+2025-12-02 19:34:44,605 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:45,323 - INFO - Compressed size: 4.28 MB
+2025-12-02 19:34:45,323 - INFO - Size reduction: 75.4%
+2025-12-02 19:34:45,324 - INFO - Successfully saved to: converted\IMG_4723.jpg
+2025-12-02 19:34:45,324 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:45,332 - INFO - Processing: IMG_4724.jpg
+2025-12-02 19:34:45,333 - INFO - Original size: 17.16 MB
+2025-12-02 19:34:45,338 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:46,040 - INFO - Compressed size: 4.17 MB
+2025-12-02 19:34:46,040 - INFO - Size reduction: 75.7%
+2025-12-02 19:34:46,040 - INFO - Successfully saved to: converted\IMG_4724.jpg
+2025-12-02 19:34:46,041 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:46,049 - INFO - Processing: IMG_4729.jpg
+2025-12-02 19:34:46,049 - INFO - Original size: 14.64 MB
+2025-12-02 19:34:46,055 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:46,740 - INFO - Compressed size: 3.96 MB
+2025-12-02 19:34:46,741 - INFO - Size reduction: 72.9%
+2025-12-02 19:34:46,741 - INFO - Successfully saved to: converted\IMG_4729.jpg
+2025-12-02 19:34:46,741 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:46,749 - INFO - Processing: IMG_4730.jpg
+2025-12-02 19:34:46,750 - INFO - Original size: 12.94 MB
+2025-12-02 19:34:46,751 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:47,395 - INFO - Compressed size: 3.52 MB
+2025-12-02 19:34:47,396 - INFO - Size reduction: 72.8%
+2025-12-02 19:34:47,396 - INFO - Successfully saved to: converted\IMG_4730.jpg
+2025-12-02 19:34:47,396 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:47,405 - INFO - Processing: IMG_4731.jpg
+2025-12-02 19:34:47,405 - INFO - Original size: 14.60 MB
+2025-12-02 19:34:47,411 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:48,080 - INFO - Compressed size: 4.01 MB
+2025-12-02 19:34:48,081 - INFO - Size reduction: 72.5%
+2025-12-02 19:34:48,081 - INFO - Successfully saved to: converted\IMG_4731.jpg
+2025-12-02 19:34:48,081 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:48,090 - INFO - Processing: IMG_4732.jpg
+2025-12-02 19:34:48,090 - INFO - Original size: 17.25 MB
+2025-12-02 19:34:48,095 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:48,833 - INFO - Compressed size: 4.62 MB
+2025-12-02 19:34:48,833 - INFO - Size reduction: 73.2%
+2025-12-02 19:34:48,833 - INFO - Successfully saved to: converted\IMG_4732.jpg
+2025-12-02 19:34:48,833 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:48,841 - INFO - Processing: IMG_4733.jpg
+2025-12-02 19:34:48,841 - INFO - Original size: 15.57 MB
+2025-12-02 19:34:48,846 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:49,535 - INFO - Compressed size: 4.23 MB
+2025-12-02 19:34:49,536 - INFO - Size reduction: 72.8%
+2025-12-02 19:34:49,536 - INFO - Successfully saved to: converted\IMG_4733.jpg
+2025-12-02 19:34:49,536 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:49,544 - INFO - Processing: IMG_4735.jpg
+2025-12-02 19:34:49,544 - INFO - Original size: 16.01 MB
+2025-12-02 19:34:49,549 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:50,290 - INFO - Compressed size: 4.58 MB
+2025-12-02 19:34:50,291 - INFO - Size reduction: 71.4%
+2025-12-02 19:34:50,291 - INFO - Successfully saved to: converted\IMG_4735.jpg
+2025-12-02 19:34:50,291 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:50,299 - INFO - Processing: IMG_4736.jpg
+2025-12-02 19:34:50,299 - INFO - Original size: 12.84 MB
+2025-12-02 19:34:50,304 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:50,937 - INFO - Compressed size: 3.43 MB
+2025-12-02 19:34:50,938 - INFO - Size reduction: 73.3%
+2025-12-02 19:34:50,938 - INFO - Successfully saved to: converted\IMG_4736.jpg
+2025-12-02 19:34:50,938 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:50,946 - INFO - Processing: IMG_4737.jpg
+2025-12-02 19:34:50,947 - INFO - Original size: 16.44 MB
+2025-12-02 19:34:50,952 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:51,627 - INFO - Compressed size: 3.67 MB
+2025-12-02 19:34:51,627 - INFO - Size reduction: 77.7%
+2025-12-02 19:34:51,627 - INFO - Successfully saved to: converted\IMG_4737.jpg
+2025-12-02 19:34:51,627 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:51,638 - INFO - Processing: IMG_4738.jpg
+2025-12-02 19:34:51,639 - INFO - Original size: 15.52 MB
+2025-12-02 19:34:51,644 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:52,309 - INFO - Compressed size: 3.44 MB
+2025-12-02 19:34:52,309 - INFO - Size reduction: 77.8%
+2025-12-02 19:34:52,309 - INFO - Successfully saved to: converted\IMG_4738.jpg
+2025-12-02 19:34:52,309 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:52,317 - INFO - Processing: IMG_4739.jpg
+2025-12-02 19:34:52,317 - INFO - Original size: 16.14 MB
+2025-12-02 19:34:52,319 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:52,986 - INFO - Compressed size: 3.55 MB
+2025-12-02 19:34:52,986 - INFO - Size reduction: 78.0%
+2025-12-02 19:34:52,986 - INFO - Successfully saved to: converted\IMG_4739.jpg
+2025-12-02 19:34:52,987 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:52,994 - INFO - Processing: IMG_4740.jpg
+2025-12-02 19:34:52,995 - INFO - Original size: 16.49 MB
+2025-12-02 19:34:53,000 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:53,708 - INFO - Compressed size: 3.63 MB
+2025-12-02 19:34:53,708 - INFO - Size reduction: 78.0%
+2025-12-02 19:34:53,709 - INFO - Successfully saved to: converted\IMG_4740.jpg
+2025-12-02 19:34:53,709 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:53,717 - INFO - Processing: IMG_4742.jpg
+2025-12-02 19:34:53,717 - INFO - Original size: 12.09 MB
+2025-12-02 19:34:53,719 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:54,343 - INFO - Compressed size: 3.16 MB
+2025-12-02 19:34:54,343 - INFO - Size reduction: 73.9%
+2025-12-02 19:34:54,343 - INFO - Successfully saved to: converted\IMG_4742.jpg
+2025-12-02 19:34:54,343 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:54,352 - INFO - Processing: IMG_4743.jpg
+2025-12-02 19:34:54,353 - INFO - Original size: 15.30 MB
+2025-12-02 19:34:54,358 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:55,035 - INFO - Compressed size: 3.53 MB
+2025-12-02 19:34:55,035 - INFO - Size reduction: 76.9%
+2025-12-02 19:34:55,036 - INFO - Successfully saved to: converted\IMG_4743.jpg
+2025-12-02 19:34:55,036 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:55,044 - INFO - Processing: IMG_4744.jpg
+2025-12-02 19:34:55,044 - INFO - Original size: 10.01 MB
+2025-12-02 19:34:55,050 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:55,602 - INFO - Compressed size: 2.47 MB
+2025-12-02 19:34:55,603 - INFO - Size reduction: 75.3%
+2025-12-02 19:34:55,603 - INFO - Successfully saved to: converted\IMG_4744.jpg
+2025-12-02 19:34:55,603 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:55,611 - INFO - Processing: IMG_4745.jpg
+2025-12-02 19:34:55,611 - INFO - Original size: 14.24 MB
+2025-12-02 19:34:55,617 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:56,286 - INFO - Compressed size: 3.79 MB
+2025-12-02 19:34:56,286 - INFO - Size reduction: 73.4%
+2025-12-02 19:34:56,286 - INFO - Successfully saved to: converted\IMG_4745.jpg
+2025-12-02 19:34:56,286 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:56,294 - INFO - Processing: IMG_4746.jpg
+2025-12-02 19:34:56,295 - INFO - Original size: 10.94 MB
+2025-12-02 19:34:56,300 - INFO - Dimensions: 4000x5328
+2025-12-02 19:34:56,872 - INFO - Compressed size: 2.75 MB
+2025-12-02 19:34:56,872 - INFO - Size reduction: 74.9%
+2025-12-02 19:34:56,873 - INFO - Successfully saved to: converted\IMG_4746.jpg
+2025-12-02 19:34:56,873 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:56,882 - INFO - Processing: IMG_9439.jpg
+2025-12-02 19:34:56,882 - INFO - Original size: 23.00 MB
+2025-12-02 19:34:56,887 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:57,735 - INFO - Compressed size: 5.38 MB
+2025-12-02 19:34:57,736 - INFO - Size reduction: 76.6%
+2025-12-02 19:34:57,736 - INFO - Successfully saved to: converted\IMG_9439.jpg
+2025-12-02 19:34:57,736 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:57,744 - INFO - Processing: IMG_9440.jpg
+2025-12-02 19:34:57,744 - INFO - Original size: 26.51 MB
+2025-12-02 19:34:57,749 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:58,659 - INFO - Compressed size: 6.11 MB
+2025-12-02 19:34:58,659 - INFO - Size reduction: 76.9%
+2025-12-02 19:34:58,659 - INFO - Successfully saved to: converted\IMG_9440.jpg
+2025-12-02 19:34:58,659 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:58,668 - INFO - Processing: IMG_9441.jpg
+2025-12-02 19:34:58,668 - INFO - Original size: 17.42 MB
+2025-12-02 19:34:58,673 - INFO - Dimensions: 5328x4000
+2025-12-02 19:34:59,379 - INFO - Compressed size: 4.09 MB
+2025-12-02 19:34:59,379 - INFO - Size reduction: 76.5%
+2025-12-02 19:34:59,379 - INFO - Successfully saved to: converted\IMG_9441.jpg
+2025-12-02 19:34:59,380 - INFO - ------------------------------------------------------------
+2025-12-02 19:34:59,388 - INFO - Processing: IMG_9442.jpg
+2025-12-02 19:34:59,388 - INFO - Original size: 20.17 MB
+2025-12-02 19:34:59,393 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:00,167 - INFO - Compressed size: 4.69 MB
+2025-12-02 19:35:00,167 - INFO - Size reduction: 76.8%
+2025-12-02 19:35:00,168 - INFO - Successfully saved to: converted\IMG_9442.jpg
+2025-12-02 19:35:00,168 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:00,176 - INFO - Processing: IMG_9443.jpg
+2025-12-02 19:35:00,176 - INFO - Original size: 20.50 MB
+2025-12-02 19:35:00,182 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:00,971 - INFO - Compressed size: 4.68 MB
+2025-12-02 19:35:00,971 - INFO - Size reduction: 77.2%
+2025-12-02 19:35:00,972 - INFO - Successfully saved to: converted\IMG_9443.jpg
+2025-12-02 19:35:00,972 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:00,980 - INFO - Processing: IMG_9444.jpg
+2025-12-02 19:35:00,980 - INFO - Original size: 21.32 MB
+2025-12-02 19:35:00,985 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:01,810 - INFO - Compressed size: 5.13 MB
+2025-12-02 19:35:01,810 - INFO - Size reduction: 75.9%
+2025-12-02 19:35:01,811 - INFO - Successfully saved to: converted\IMG_9444.jpg
+2025-12-02 19:35:01,811 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:01,819 - INFO - Processing: IMG_9445.jpg
+2025-12-02 19:35:01,819 - INFO - Original size: 22.47 MB
+2025-12-02 19:35:01,825 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:02,683 - INFO - Compressed size: 5.77 MB
+2025-12-02 19:35:02,683 - INFO - Size reduction: 74.3%
+2025-12-02 19:35:02,683 - INFO - Successfully saved to: converted\IMG_9445.jpg
+2025-12-02 19:35:02,683 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:02,692 - INFO - Processing: IMG_9446.jpg
+2025-12-02 19:35:02,692 - INFO - Original size: 24.03 MB
+2025-12-02 19:35:02,697 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:03,546 - INFO - Compressed size: 5.58 MB
+2025-12-02 19:35:03,546 - INFO - Size reduction: 76.8%
+2025-12-02 19:35:03,546 - INFO - Successfully saved to: converted\IMG_9446.jpg
+2025-12-02 19:35:03,546 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:03,555 - INFO - Processing: IMG_9447.jpg
+2025-12-02 19:35:03,555 - INFO - Original size: 18.66 MB
+2025-12-02 19:35:03,561 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:04,326 - INFO - Compressed size: 4.13 MB
+2025-12-02 19:35:04,326 - INFO - Size reduction: 77.9%
+2025-12-02 19:35:04,326 - INFO - Successfully saved to: converted\IMG_9447.jpg
+2025-12-02 19:35:04,326 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:04,334 - INFO - Processing: IMG_9448.jpg
+2025-12-02 19:35:04,335 - INFO - Original size: 22.01 MB
+2025-12-02 19:35:04,340 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:05,148 - INFO - Compressed size: 5.12 MB
+2025-12-02 19:35:05,149 - INFO - Size reduction: 76.7%
+2025-12-02 19:35:05,149 - INFO - Successfully saved to: converted\IMG_9448.jpg
+2025-12-02 19:35:05,149 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:05,157 - INFO - Processing: IMG_9449.jpg
+2025-12-02 19:35:05,157 - INFO - Original size: 17.08 MB
+2025-12-02 19:35:05,163 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:05,884 - INFO - Compressed size: 4.08 MB
+2025-12-02 19:35:05,884 - INFO - Size reduction: 76.1%
+2025-12-02 19:35:05,884 - INFO - Successfully saved to: converted\IMG_9449.jpg
+2025-12-02 19:35:05,885 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:05,893 - INFO - Processing: IMG_9450.jpg
+2025-12-02 19:35:05,893 - INFO - Original size: 19.57 MB
+2025-12-02 19:35:05,898 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:06,675 - INFO - Compressed size: 4.76 MB
+2025-12-02 19:35:06,675 - INFO - Size reduction: 75.7%
+2025-12-02 19:35:06,675 - INFO - Successfully saved to: converted\IMG_9450.jpg
+2025-12-02 19:35:06,676 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:06,684 - INFO - Processing: IMG_9452.jpg
+2025-12-02 19:35:06,684 - INFO - Original size: 16.58 MB
+2025-12-02 19:35:06,689 - INFO - Dimensions: 4000x5328
+2025-12-02 19:35:07,386 - INFO - Compressed size: 4.19 MB
+2025-12-02 19:35:07,387 - INFO - Size reduction: 74.8%
+2025-12-02 19:35:07,387 - INFO - Successfully saved to: converted\IMG_9452.jpg
+2025-12-02 19:35:07,387 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:07,396 - INFO - Processing: IMG_9454.jpg
+2025-12-02 19:35:07,396 - INFO - Original size: 27.15 MB
+2025-12-02 19:35:07,401 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:08,356 - INFO - Compressed size: 6.74 MB
+2025-12-02 19:35:08,356 - INFO - Size reduction: 75.2%
+2025-12-02 19:35:08,356 - INFO - Successfully saved to: converted\IMG_9454.jpg
+2025-12-02 19:35:08,357 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:08,364 - INFO - Processing: IMG_9455.jpg
+2025-12-02 19:35:08,365 - INFO - Original size: 10.62 MB
+2025-12-02 19:35:08,370 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:08,929 - INFO - Compressed size: 2.49 MB
+2025-12-02 19:35:08,929 - INFO - Size reduction: 76.5%
+2025-12-02 19:35:08,929 - INFO - Successfully saved to: converted\IMG_9455.jpg
+2025-12-02 19:35:08,930 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:08,937 - INFO - Processing: IMG_9456.jpg
+2025-12-02 19:35:08,937 - INFO - Original size: 19.16 MB
+2025-12-02 19:35:08,943 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:09,692 - INFO - Compressed size: 4.27 MB
+2025-12-02 19:35:09,692 - INFO - Size reduction: 77.7%
+2025-12-02 19:35:09,693 - INFO - Successfully saved to: converted\IMG_9456.jpg
+2025-12-02 19:35:09,693 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:09,701 - INFO - Processing: IMG_9457.jpg
+2025-12-02 19:35:09,701 - INFO - Original size: 19.51 MB
+2025-12-02 19:35:09,703 - INFO - Dimensions: 5248x3703
+2025-12-02 19:35:10,436 - INFO - Compressed size: 4.62 MB
+2025-12-02 19:35:10,437 - INFO - Size reduction: 76.3%
+2025-12-02 19:35:10,437 - INFO - Successfully saved to: converted\IMG_9457.jpg
+2025-12-02 19:35:10,437 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:10,445 - INFO - Processing: IMG_9459.jpg
+2025-12-02 19:35:10,445 - INFO - Original size: 22.83 MB
+2025-12-02 19:35:10,451 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:11,350 - INFO - Compressed size: 6.43 MB
+2025-12-02 19:35:11,350 - INFO - Size reduction: 71.8%
+2025-12-02 19:35:11,350 - INFO - Successfully saved to: converted\IMG_9459.jpg
+2025-12-02 19:35:11,351 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:11,359 - INFO - Processing: IMG_9460.jpg
+2025-12-02 19:35:11,360 - INFO - Original size: 21.84 MB
+2025-12-02 19:35:11,365 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:12,204 - INFO - Compressed size: 5.80 MB
+2025-12-02 19:35:12,204 - INFO - Size reduction: 73.4%
+2025-12-02 19:35:12,205 - INFO - Successfully saved to: converted\IMG_9460.jpg
+2025-12-02 19:35:12,205 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:12,213 - INFO - Processing: IMG_9461.jpg
+2025-12-02 19:35:12,213 - INFO - Original size: 22.92 MB
+2025-12-02 19:35:12,219 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:13,076 - INFO - Compressed size: 5.51 MB
+2025-12-02 19:35:13,077 - INFO - Size reduction: 75.9%
+2025-12-02 19:35:13,077 - INFO - Successfully saved to: converted\IMG_9461.jpg
+2025-12-02 19:35:13,077 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:13,085 - INFO - Processing: IMG_9462.jpg
+2025-12-02 19:35:13,086 - INFO - Original size: 23.09 MB
+2025-12-02 19:35:13,091 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:13,989 - INFO - Compressed size: 5.98 MB
+2025-12-02 19:35:13,989 - INFO - Size reduction: 74.1%
+2025-12-02 19:35:13,989 - INFO - Successfully saved to: converted\IMG_9462.jpg
+2025-12-02 19:35:13,989 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:13,997 - INFO - Processing: IMG_9463.jpg
+2025-12-02 19:35:13,997 - INFO - Original size: 20.75 MB
+2025-12-02 19:35:14,003 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:14,832 - INFO - Compressed size: 5.36 MB
+2025-12-02 19:35:14,833 - INFO - Size reduction: 74.2%
+2025-12-02 19:35:14,833 - INFO - Successfully saved to: converted\IMG_9463.jpg
+2025-12-02 19:35:14,833 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:14,842 - INFO - Processing: IMG_9464.jpg
+2025-12-02 19:35:14,842 - INFO - Original size: 26.68 MB
+2025-12-02 19:35:14,848 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:15,791 - INFO - Compressed size: 6.49 MB
+2025-12-02 19:35:15,791 - INFO - Size reduction: 75.7%
+2025-12-02 19:35:15,791 - INFO - Successfully saved to: converted\IMG_9464.jpg
+2025-12-02 19:35:15,791 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:15,799 - INFO - Processing: IMG_9465.jpg
+2025-12-02 19:35:15,800 - INFO - Original size: 24.30 MB
+2025-12-02 19:35:15,805 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:16,686 - INFO - Compressed size: 5.55 MB
+2025-12-02 19:35:16,686 - INFO - Size reduction: 77.1%
+2025-12-02 19:35:16,687 - INFO - Successfully saved to: converted\IMG_9465.jpg
+2025-12-02 19:35:16,687 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:16,695 - INFO - Processing: IMG_9466.jpg
+2025-12-02 19:35:16,695 - INFO - Original size: 22.67 MB
+2025-12-02 19:35:16,700 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:17,562 - INFO - Compressed size: 5.32 MB
+2025-12-02 19:35:17,562 - INFO - Size reduction: 76.6%
+2025-12-02 19:35:17,563 - INFO - Successfully saved to: converted\IMG_9466.jpg
+2025-12-02 19:35:17,563 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:17,571 - INFO - Processing: IMG_9467.jpg
+2025-12-02 19:35:17,571 - INFO - Original size: 23.99 MB
+2025-12-02 19:35:17,577 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:18,453 - INFO - Compressed size: 6.02 MB
+2025-12-02 19:35:18,454 - INFO - Size reduction: 74.9%
+2025-12-02 19:35:18,454 - INFO - Successfully saved to: converted\IMG_9467.jpg
+2025-12-02 19:35:18,454 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:18,462 - INFO - Processing: IMG_9468.jpg
+2025-12-02 19:35:18,463 - INFO - Original size: 21.43 MB
+2025-12-02 19:35:18,468 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:19,281 - INFO - Compressed size: 4.97 MB
+2025-12-02 19:35:19,281 - INFO - Size reduction: 76.8%
+2025-12-02 19:35:19,281 - INFO - Successfully saved to: converted\IMG_9468.jpg
+2025-12-02 19:35:19,281 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:19,289 - INFO - Processing: IMG_9469.jpg
+2025-12-02 19:35:19,289 - INFO - Original size: 21.17 MB
+2025-12-02 19:35:19,294 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:20,133 - INFO - Compressed size: 5.53 MB
+2025-12-02 19:35:20,134 - INFO - Size reduction: 73.9%
+2025-12-02 19:35:20,134 - INFO - Successfully saved to: converted\IMG_9469.jpg
+2025-12-02 19:35:20,134 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:20,142 - INFO - Processing: IMG_9470.jpg
+2025-12-02 19:35:20,142 - INFO - Original size: 21.37 MB
+2025-12-02 19:35:20,147 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:20,950 - INFO - Compressed size: 4.90 MB
+2025-12-02 19:35:20,951 - INFO - Size reduction: 77.1%
+2025-12-02 19:35:20,951 - INFO - Successfully saved to: converted\IMG_9470.jpg
+2025-12-02 19:35:20,951 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:20,959 - INFO - Processing: IMG_9471.jpg
+2025-12-02 19:35:20,959 - INFO - Original size: 19.83 MB
+2025-12-02 19:35:20,965 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:21,787 - INFO - Compressed size: 5.28 MB
+2025-12-02 19:35:21,787 - INFO - Size reduction: 73.4%
+2025-12-02 19:35:21,787 - INFO - Successfully saved to: converted\IMG_9471.jpg
+2025-12-02 19:35:21,787 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:21,797 - INFO - Processing: IMG_9473.jpg
+2025-12-02 19:35:21,797 - INFO - Original size: 7.84 MB
+2025-12-02 19:35:21,803 - INFO - Dimensions: 4000x5328
+2025-12-02 19:35:22,322 - INFO - Compressed size: 1.97 MB
+2025-12-02 19:35:22,323 - INFO - Size reduction: 74.9%
+2025-12-02 19:35:22,323 - INFO - Successfully saved to: converted\IMG_9473.jpg
+2025-12-02 19:35:22,323 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:22,332 - INFO - Processing: IMG_9475.jpg
+2025-12-02 19:35:22,332 - INFO - Original size: 12.01 MB
+2025-12-02 19:35:22,338 - INFO - Dimensions: 4000x5328
+2025-12-02 19:35:22,960 - INFO - Compressed size: 3.13 MB
+2025-12-02 19:35:22,960 - INFO - Size reduction: 74.0%
+2025-12-02 19:35:22,961 - INFO - Successfully saved to: converted\IMG_9475.jpg
+2025-12-02 19:35:22,961 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:22,969 - INFO - Processing: IMG_9478.jpg
+2025-12-02 19:35:22,969 - INFO - Original size: 12.95 MB
+2025-12-02 19:35:22,974 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:23,596 - INFO - Compressed size: 3.04 MB
+2025-12-02 19:35:23,597 - INFO - Size reduction: 76.5%
+2025-12-02 19:35:23,597 - INFO - Successfully saved to: converted\IMG_9478.jpg
+2025-12-02 19:35:23,597 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:23,605 - INFO - Processing: IMG_9479.jpg
+2025-12-02 19:35:23,605 - INFO - Original size: 10.51 MB
+2025-12-02 19:35:23,610 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:24,181 - INFO - Compressed size: 2.52 MB
+2025-12-02 19:35:24,182 - INFO - Size reduction: 76.0%
+2025-12-02 19:35:24,182 - INFO - Successfully saved to: converted\IMG_9479.jpg
+2025-12-02 19:35:24,182 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:24,190 - INFO - Processing: IMG_9480.jpg
+2025-12-02 19:35:24,190 - INFO - Original size: 9.96 MB
+2025-12-02 19:35:24,196 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:24,772 - INFO - Compressed size: 2.52 MB
+2025-12-02 19:35:24,772 - INFO - Size reduction: 74.7%
+2025-12-02 19:35:24,773 - INFO - Successfully saved to: converted\IMG_9480.jpg
+2025-12-02 19:35:24,773 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:24,781 - INFO - Processing: IMG_9483.jpg
+2025-12-02 19:35:24,781 - INFO - Original size: 16.06 MB
+2025-12-02 19:35:24,787 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:25,495 - INFO - Compressed size: 3.84 MB
+2025-12-02 19:35:25,495 - INFO - Size reduction: 76.1%
+2025-12-02 19:35:25,495 - INFO - Successfully saved to: converted\IMG_9483.jpg
+2025-12-02 19:35:25,495 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:25,504 - INFO - Processing: IMG_9485.jpg
+2025-12-02 19:35:25,504 - INFO - Original size: 12.40 MB
+2025-12-02 19:35:25,509 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:26,114 - INFO - Compressed size: 2.79 MB
+2025-12-02 19:35:26,114 - INFO - Size reduction: 77.5%
+2025-12-02 19:35:26,114 - INFO - Successfully saved to: converted\IMG_9485.jpg
+2025-12-02 19:35:26,114 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:26,123 - INFO - Processing: IMG_9487.jpg
+2025-12-02 19:35:26,123 - INFO - Original size: 12.80 MB
+2025-12-02 19:35:26,128 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:26,840 - INFO - Compressed size: 3.51 MB
+2025-12-02 19:35:26,840 - INFO - Size reduction: 72.6%
+2025-12-02 19:35:26,840 - INFO - Successfully saved to: converted\IMG_9487.jpg
+2025-12-02 19:35:26,840 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:26,849 - INFO - Processing: IMG_9489.jpg
+2025-12-02 19:35:26,850 - INFO - Original size: 12.33 MB
+2025-12-02 19:35:26,851 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:27,464 - INFO - Compressed size: 2.88 MB
+2025-12-02 19:35:27,464 - INFO - Size reduction: 76.6%
+2025-12-02 19:35:27,465 - INFO - Successfully saved to: converted\IMG_9489.jpg
+2025-12-02 19:35:27,465 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:27,473 - INFO - Processing: IMG_9490.jpg
+2025-12-02 19:35:27,473 - INFO - Original size: 12.43 MB
+2025-12-02 19:35:27,478 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:28,102 - INFO - Compressed size: 2.98 MB
+2025-12-02 19:35:28,102 - INFO - Size reduction: 76.1%
+2025-12-02 19:35:28,102 - INFO - Successfully saved to: converted\IMG_9490.jpg
+2025-12-02 19:35:28,103 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:28,110 - INFO - Processing: IMG_9492.jpg
+2025-12-02 19:35:28,111 - INFO - Original size: 12.08 MB
+2025-12-02 19:35:28,116 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:28,739 - INFO - Compressed size: 2.82 MB
+2025-12-02 19:35:28,739 - INFO - Size reduction: 76.7%
+2025-12-02 19:35:28,739 - INFO - Successfully saved to: converted\IMG_9492.jpg
+2025-12-02 19:35:28,740 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:28,748 - INFO - Processing: IMG_9493.jpg
+2025-12-02 19:35:28,748 - INFO - Original size: 13.45 MB
+2025-12-02 19:35:28,750 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:29,451 - INFO - Compressed size: 3.20 MB
+2025-12-02 19:35:29,452 - INFO - Size reduction: 76.2%
+2025-12-02 19:35:29,452 - INFO - Successfully saved to: converted\IMG_9493.jpg
+2025-12-02 19:35:29,452 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:29,461 - INFO - Processing: IMG_9497.jpg
+2025-12-02 19:35:29,461 - INFO - Original size: 12.63 MB
+2025-12-02 19:35:29,467 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:30,269 - INFO - Compressed size: 3.22 MB
+2025-12-02 19:35:30,269 - INFO - Size reduction: 74.5%
+2025-12-02 19:35:30,269 - INFO - Successfully saved to: converted\IMG_9497.jpg
+2025-12-02 19:35:30,269 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:30,280 - INFO - Processing: IMG_9498.jpg
+2025-12-02 19:35:30,281 - INFO - Original size: 12.37 MB
+2025-12-02 19:35:30,287 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:30,927 - INFO - Compressed size: 2.81 MB
+2025-12-02 19:35:30,927 - INFO - Size reduction: 77.3%
+2025-12-02 19:35:30,928 - INFO - Successfully saved to: converted\IMG_9498.jpg
+2025-12-02 19:35:30,928 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:30,936 - INFO - Processing: IMG_9499.jpg
+2025-12-02 19:35:30,937 - INFO - Original size: 12.44 MB
+2025-12-02 19:35:30,942 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:31,568 - INFO - Compressed size: 2.81 MB
+2025-12-02 19:35:31,568 - INFO - Size reduction: 77.4%
+2025-12-02 19:35:31,568 - INFO - Successfully saved to: converted\IMG_9499.jpg
+2025-12-02 19:35:31,568 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:31,578 - INFO - Processing: IMG_9500.jpg
+2025-12-02 19:35:31,578 - INFO - Original size: 12.42 MB
+2025-12-02 19:35:31,584 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:32,220 - INFO - Compressed size: 2.90 MB
+2025-12-02 19:35:32,220 - INFO - Size reduction: 76.7%
+2025-12-02 19:35:32,220 - INFO - Successfully saved to: converted\IMG_9500.jpg
+2025-12-02 19:35:32,220 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:32,229 - INFO - Processing: IMG_9501.jpg
+2025-12-02 19:35:32,230 - INFO - Original size: 12.39 MB
+2025-12-02 19:35:32,235 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:32,886 - INFO - Compressed size: 2.88 MB
+2025-12-02 19:35:32,886 - INFO - Size reduction: 76.7%
+2025-12-02 19:35:32,886 - INFO - Successfully saved to: converted\IMG_9501.jpg
+2025-12-02 19:35:32,886 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:32,895 - INFO - Processing: IMG_9502.jpg
+2025-12-02 19:35:32,895 - INFO - Original size: 12.80 MB
+2025-12-02 19:35:32,900 - INFO - Dimensions: 5328x4000
+2025-12-02 19:35:33,556 - INFO - Compressed size: 3.08 MB
+2025-12-02 19:35:33,556 - INFO - Size reduction: 75.9%
+2025-12-02 19:35:33,556 - INFO - Successfully saved to: converted\IMG_9502.jpg
+2025-12-02 19:35:33,556 - INFO - ------------------------------------------------------------
+2025-12-02 19:35:33,566 - INFO - ============================================================
+2025-12-02 19:35:33,566 - INFO - Batch compression completed
+2025-12-02 19:35:33,566 - INFO - Successful: 94
+2025-12-02 19:35:33,566 - INFO - Failed: 0
+2025-12-02 19:35:33,567 - INFO - ============================================================

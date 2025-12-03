@@ -1,0 +1,958 @@
+2025-12-03 10:27:41,839 - INFO - ImageToPNGConverter initialized
+2025-12-03 10:27:41,839 - INFO - Raw folder: raw
+2025-12-03 10:27:41,839 - INFO - Converted folder: converted
+2025-12-03 10:27:41,839 - INFO - ============================================================
+2025-12-03 10:27:41,840 - INFO - Starting batch PNG conversion
+2025-12-03 10:27:41,840 - INFO - ============================================================
+2025-12-03 10:27:41,841 - INFO - Found 94 image(s)
+2025-12-03 10:27:41,841 - INFO - - Already PNG: 0
+2025-12-03 10:27:41,841 - INFO - - To convert: 94
+2025-12-03 10:27:41,841 - INFO - 
+Converting non-PNG files:
+2025-12-03 10:27:41,842 - INFO - Processing: IMG_4676.jpg
+2025-12-03 10:27:41,842 - INFO - Original format: .jpg
+2025-12-03 10:27:41,843 - INFO - Original size: 3.10 MB
+2025-12-03 10:27:41,881 - INFO - Dimensions: 5328x4000
+2025-12-03 10:27:41,882 - INFO - Color mode: RGB
+2025-12-03 10:27:41,882 - INFO - Converting RGB to RGBA
+2025-12-03 10:27:54,296 - INFO - Converted size: 25.98 MB
+2025-12-03 10:27:54,296 - INFO - Size increase: +22.88 MB (737.5%)
+2025-12-03 10:27:54,296 - INFO - Successfully saved to: converted\IMG_4676.png
+2025-12-03 10:27:54,296 - INFO - ------------------------------------------------------------
+2025-12-03 10:27:54,304 - INFO - Processing: IMG_4677.jpg
+2025-12-03 10:27:54,305 - INFO - Original format: .jpg
+2025-12-03 10:27:54,305 - INFO - Original size: 3.33 MB
+2025-12-03 10:27:54,309 - INFO - Dimensions: 5328x4000
+2025-12-03 10:27:54,309 - INFO - Color mode: RGB
+2025-12-03 10:27:54,310 - INFO - Converting RGB to RGBA
+2025-12-03 10:28:05,403 - INFO - Converted size: 27.03 MB
+2025-12-03 10:28:05,404 - INFO - Size increase: +23.71 MB (712.7%)
+2025-12-03 10:28:05,404 - INFO - Successfully saved to: converted\IMG_4677.png
+2025-12-03 10:28:05,404 - INFO - ------------------------------------------------------------
+2025-12-03 10:28:05,413 - INFO - Processing: IMG_4679.jpg
+2025-12-03 10:28:05,413 - INFO - Original format: .jpg
+2025-12-03 10:28:05,413 - INFO - Original size: 2.93 MB
+2025-12-03 10:28:05,417 - INFO - Dimensions: 5328x4000
+2025-12-03 10:28:05,418 - INFO - Color mode: RGB
+2025-12-03 10:28:05,418 - INFO - Converting RGB to RGBA
+2025-12-03 10:28:16,360 - INFO - Converted size: 23.48 MB
+2025-12-03 10:28:16,360 - INFO - Size increase: +20.54 MB (700.5%)
+2025-12-03 10:28:16,360 - INFO - Successfully saved to: converted\IMG_4679.png
+2025-12-03 10:28:16,361 - INFO - ------------------------------------------------------------
+2025-12-03 10:28:16,373 - INFO - Processing: IMG_4680.jpg
+2025-12-03 10:28:16,373 - INFO - Original format: .jpg
+2025-12-03 10:28:16,374 - INFO - Original size: 3.06 MB
+2025-12-03 10:28:16,375 - INFO - Dimensions: 5328x4000
+2025-12-03 10:28:16,375 - INFO - Color mode: RGB
+2025-12-03 10:28:16,376 - INFO - Converting RGB to RGBA
+2025-12-03 10:28:30,978 - INFO - Converted size: 23.88 MB
+2025-12-03 10:28:30,979 - INFO - Size increase: +20.82 MB (680.6%)
+2025-12-03 10:28:30,979 - INFO - Successfully saved to: converted\IMG_4680.png
+2025-12-03 10:28:30,979 - INFO - ------------------------------------------------------------
+2025-12-03 10:28:30,990 - INFO - Processing: IMG_4681.jpg
+2025-12-03 10:28:30,990 - INFO - Original format: .jpg
+2025-12-03 10:28:30,990 - INFO - Original size: 2.85 MB
+2025-12-03 10:28:30,995 - INFO - Dimensions: 5328x4000
+2025-12-03 10:28:30,995 - INFO - Color mode: RGB
+2025-12-03 10:28:30,996 - INFO - Converting RGB to RGBA
+2025-12-03 10:28:47,737 - INFO - Converted size: 22.29 MB
+2025-12-03 10:28:47,737 - INFO - Size increase: +19.44 MB (682.8%)
+2025-12-03 10:28:47,737 - INFO - Successfully saved to: converted\IMG_4681.png
+2025-12-03 10:28:47,738 - INFO - ------------------------------------------------------------
+2025-12-03 10:28:47,746 - INFO - Processing: IMG_4682.jpg
+2025-12-03 10:28:47,746 - INFO - Original format: .jpg
+2025-12-03 10:28:47,747 - INFO - Original size: 2.79 MB
+2025-12-03 10:28:47,751 - INFO - Dimensions: 5328x4000
+2025-12-03 10:28:47,751 - INFO - Color mode: RGB
+2025-12-03 10:28:47,751 - INFO - Converting RGB to RGBA
+2025-12-03 10:29:05,230 - INFO - Converted size: 21.71 MB
+2025-12-03 10:29:05,230 - INFO - Size increase: +18.92 MB (678.4%)
+2025-12-03 10:29:05,231 - INFO - Successfully saved to: converted\IMG_4682.png
+2025-12-03 10:29:05,231 - INFO - ------------------------------------------------------------
+2025-12-03 10:29:05,242 - INFO - Processing: IMG_4683.jpg
+2025-12-03 10:29:05,242 - INFO - Original format: .jpg
+2025-12-03 10:29:05,242 - INFO - Original size: 3.07 MB
+2025-12-03 10:29:05,247 - INFO - Dimensions: 5328x4000
+2025-12-03 10:29:05,247 - INFO - Color mode: RGB
+2025-12-03 10:29:05,247 - INFO - Converting RGB to RGBA
+2025-12-03 10:29:21,409 - INFO - Converted size: 22.63 MB
+2025-12-03 10:29:21,410 - INFO - Size increase: +19.56 MB (636.7%)
+2025-12-03 10:29:21,410 - INFO - Successfully saved to: converted\IMG_4683.png
+2025-12-03 10:29:21,410 - INFO - ------------------------------------------------------------
+2025-12-03 10:29:21,422 - INFO - Processing: IMG_4684.jpg
+2025-12-03 10:29:21,422 - INFO - Original format: .jpg
+2025-12-03 10:29:21,423 - INFO - Original size: 3.49 MB
+2025-12-03 10:29:21,427 - INFO - Dimensions: 5328x4000
+2025-12-03 10:29:21,428 - INFO - Color mode: RGB
+2025-12-03 10:29:21,428 - INFO - Converting RGB to RGBA
+2025-12-03 10:29:39,534 - INFO - Converted size: 28.79 MB
+2025-12-03 10:29:39,534 - INFO - Size increase: +25.30 MB (725.7%)
+2025-12-03 10:29:39,534 - INFO - Successfully saved to: converted\IMG_4684.png
+2025-12-03 10:29:39,535 - INFO - ------------------------------------------------------------
+2025-12-03 10:29:39,546 - INFO - Processing: IMG_4690.jpg
+2025-12-03 10:29:39,546 - INFO - Original format: .jpg
+2025-12-03 10:29:39,546 - INFO - Original size: 2.93 MB
+2025-12-03 10:29:39,551 - INFO - Dimensions: 4000x5328
+2025-12-03 10:29:39,551 - INFO - Color mode: RGB
+2025-12-03 10:29:39,551 - INFO - Converting RGB to RGBA
+2025-12-03 10:29:51,501 - INFO - Converted size: 18.98 MB
+2025-12-03 10:29:51,502 - INFO - Size increase: +16.05 MB (548.2%)
+2025-12-03 10:29:51,502 - INFO - Successfully saved to: converted\IMG_4690.png
+2025-12-03 10:29:51,502 - INFO - ------------------------------------------------------------
+2025-12-03 10:29:51,511 - INFO - Processing: IMG_4691.jpg
+2025-12-03 10:29:51,511 - INFO - Original format: .jpg
+2025-12-03 10:29:51,511 - INFO - Original size: 3.24 MB
+2025-12-03 10:29:51,516 - INFO - Dimensions: 5328x4000
+2025-12-03 10:29:51,518 - INFO - Color mode: RGB
+2025-12-03 10:29:51,518 - INFO - Converting RGB to RGBA
+2025-12-03 10:30:03,916 - INFO - Converted size: 21.61 MB
+2025-12-03 10:30:03,916 - INFO - Size increase: +18.36 MB (566.5%)
+2025-12-03 10:30:03,917 - INFO - Successfully saved to: converted\IMG_4691.png
+2025-12-03 10:30:03,917 - INFO - ------------------------------------------------------------
+2025-12-03 10:30:03,931 - INFO - Processing: IMG_4692.jpg
+2025-12-03 10:30:03,931 - INFO - Original format: .jpg
+2025-12-03 10:30:03,931 - INFO - Original size: 2.82 MB
+2025-12-03 10:30:03,936 - INFO - Dimensions: 4000x5328
+2025-12-03 10:30:03,937 - INFO - Color mode: RGB
+2025-12-03 10:30:03,937 - INFO - Converting RGB to RGBA
+2025-12-03 10:30:17,109 - INFO - Converted size: 18.74 MB
+2025-12-03 10:30:17,109 - INFO - Size increase: +15.91 MB (563.4%)
+2025-12-03 10:30:17,109 - INFO - Successfully saved to: converted\IMG_4692.png
+2025-12-03 10:30:17,110 - INFO - ------------------------------------------------------------
+2025-12-03 10:30:17,122 - INFO - Processing: IMG_4693.jpg
+2025-12-03 10:30:17,123 - INFO - Original format: .jpg
+2025-12-03 10:30:17,123 - INFO - Original size: 3.38 MB
+2025-12-03 10:30:17,128 - INFO - Dimensions: 5328x4000
+2025-12-03 10:30:17,128 - INFO - Color mode: RGB
+2025-12-03 10:30:17,128 - INFO - Converting RGB to RGBA
+2025-12-03 10:30:33,078 - INFO - Converted size: 26.92 MB
+2025-12-03 10:30:33,078 - INFO - Size increase: +23.54 MB (697.4%)
+2025-12-03 10:30:33,078 - INFO - Successfully saved to: converted\IMG_4693.png
+2025-12-03 10:30:33,078 - INFO - ------------------------------------------------------------
+2025-12-03 10:30:33,087 - INFO - Processing: IMG_4695.jpg
+2025-12-03 10:30:33,087 - INFO - Original format: .jpg
+2025-12-03 10:30:33,087 - INFO - Original size: 4.07 MB
+2025-12-03 10:30:33,091 - INFO - Dimensions: 5328x4000
+2025-12-03 10:30:33,092 - INFO - Color mode: RGB
+2025-12-03 10:30:33,092 - INFO - Converting RGB to RGBA
+2025-12-03 10:30:49,948 - INFO - Converted size: 31.52 MB
+2025-12-03 10:30:49,948 - INFO - Size increase: +27.45 MB (673.7%)
+2025-12-03 10:30:49,948 - INFO - Successfully saved to: converted\IMG_4695.png
+2025-12-03 10:30:49,949 - INFO - ------------------------------------------------------------
+2025-12-03 10:30:49,958 - INFO - Processing: IMG_4698.jpg
+2025-12-03 10:30:49,958 - INFO - Original format: .jpg
+2025-12-03 10:30:49,959 - INFO - Original size: 3.47 MB
+2025-12-03 10:30:49,963 - INFO - Dimensions: 4000x5328
+2025-12-03 10:30:49,963 - INFO - Color mode: RGB
+2025-12-03 10:30:49,964 - INFO - Converting RGB to RGBA
+2025-12-03 10:31:04,575 - INFO - Converted size: 25.07 MB
+2025-12-03 10:31:04,576 - INFO - Size increase: +21.60 MB (622.1%)
+2025-12-03 10:31:04,576 - INFO - Successfully saved to: converted\IMG_4698.png
+2025-12-03 10:31:04,576 - INFO - ------------------------------------------------------------
+2025-12-03 10:31:04,591 - INFO - Processing: IMG_4700.jpg
+2025-12-03 10:31:04,592 - INFO - Original format: .jpg
+2025-12-03 10:31:04,592 - INFO - Original size: 3.17 MB
+2025-12-03 10:31:04,597 - INFO - Dimensions: 4000x5328
+2025-12-03 10:31:04,597 - INFO - Color mode: RGB
+2025-12-03 10:31:04,597 - INFO - Converting RGB to RGBA
+2025-12-03 10:31:25,511 - INFO - Converted size: 27.20 MB
+2025-12-03 10:31:25,511 - INFO - Size increase: +24.03 MB (757.9%)
+2025-12-03 10:31:25,512 - INFO - Successfully saved to: converted\IMG_4700.png
+2025-12-03 10:31:25,512 - INFO - ------------------------------------------------------------
+2025-12-03 10:31:25,522 - INFO - Processing: IMG_4703.jpg
+2025-12-03 10:31:25,523 - INFO - Original format: .jpg
+2025-12-03 10:31:25,523 - INFO - Original size: 4.78 MB
+2025-12-03 10:31:25,524 - INFO - Dimensions: 4000x5328
+2025-12-03 10:31:25,524 - INFO - Color mode: RGB
+2025-12-03 10:31:25,524 - INFO - Converting RGB to RGBA
+2025-12-03 10:31:38,915 - INFO - Converted size: 33.65 MB
+2025-12-03 10:31:38,916 - INFO - Size increase: +28.87 MB (603.9%)
+2025-12-03 10:31:38,916 - INFO - Successfully saved to: converted\IMG_4703.png
+2025-12-03 10:31:38,916 - INFO - ------------------------------------------------------------
+2025-12-03 10:31:38,927 - INFO - Processing: IMG_4704.jpg
+2025-12-03 10:31:38,927 - INFO - Original format: .jpg
+2025-12-03 10:31:38,927 - INFO - Original size: 4.22 MB
+2025-12-03 10:31:38,931 - INFO - Dimensions: 5328x4000
+2025-12-03 10:31:38,932 - INFO - Color mode: RGB
+2025-12-03 10:31:38,932 - INFO - Converting RGB to RGBA
+2025-12-03 10:31:52,096 - INFO - Converted size: 29.44 MB
+2025-12-03 10:31:52,097 - INFO - Size increase: +25.21 MB (597.3%)
+2025-12-03 10:31:52,097 - INFO - Successfully saved to: converted\IMG_4704.png
+2025-12-03 10:31:52,098 - INFO - ------------------------------------------------------------
+2025-12-03 10:31:52,115 - INFO - Processing: IMG_4707.jpg
+2025-12-03 10:31:52,116 - INFO - Original format: .jpg
+2025-12-03 10:31:52,116 - INFO - Original size: 2.76 MB
+2025-12-03 10:31:52,121 - INFO - Dimensions: 5328x4000
+2025-12-03 10:31:52,122 - INFO - Color mode: RGB
+2025-12-03 10:31:52,122 - INFO - Converting RGB to RGBA
+2025-12-03 10:32:11,973 - INFO - Converted size: 24.19 MB
+2025-12-03 10:32:11,973 - INFO - Size increase: +21.42 MB (775.5%)
+2025-12-03 10:32:11,973 - INFO - Successfully saved to: converted\IMG_4707.png
+2025-12-03 10:32:11,973 - INFO - ------------------------------------------------------------
+2025-12-03 10:32:11,983 - INFO - Processing: IMG_4710.jpg
+2025-12-03 10:32:11,983 - INFO - Original format: .jpg
+2025-12-03 10:32:11,983 - INFO - Original size: 2.30 MB
+2025-12-03 10:32:11,984 - INFO - Dimensions: 4000x5328
+2025-12-03 10:32:11,984 - INFO - Color mode: RGB
+2025-12-03 10:32:11,985 - INFO - Converting RGB to RGBA
+2025-12-03 10:32:30,086 - INFO - Converted size: 18.41 MB
+2025-12-03 10:32:30,087 - INFO - Size increase: +16.11 MB (700.2%)
+2025-12-03 10:32:30,087 - INFO - Successfully saved to: converted\IMG_4710.png
+2025-12-03 10:32:30,087 - INFO - ------------------------------------------------------------
+2025-12-03 10:32:30,100 - INFO - Processing: IMG_4711.jpg
+2025-12-03 10:32:30,100 - INFO - Original format: .jpg
+2025-12-03 10:32:30,100 - INFO - Original size: 2.29 MB
+2025-12-03 10:32:30,101 - INFO - Dimensions: 4000x5328
+2025-12-03 10:32:30,101 - INFO - Color mode: RGB
+2025-12-03 10:32:30,102 - INFO - Converting RGB to RGBA
+2025-12-03 10:32:46,992 - INFO - Converted size: 18.89 MB
+2025-12-03 10:32:46,993 - INFO - Size increase: +16.60 MB (725.0%)
+2025-12-03 10:32:46,993 - INFO - Successfully saved to: converted\IMG_4711.png
+2025-12-03 10:32:46,993 - INFO - ------------------------------------------------------------
+2025-12-03 10:32:47,004 - INFO - Processing: IMG_4713.jpg
+2025-12-03 10:32:47,004 - INFO - Original format: .jpg
+2025-12-03 10:32:47,004 - INFO - Original size: 3.67 MB
+2025-12-03 10:32:47,009 - INFO - Dimensions: 5328x4000
+2025-12-03 10:32:47,010 - INFO - Color mode: RGB
+2025-12-03 10:32:47,012 - INFO - Converting RGB to RGBA
+2025-12-03 10:33:02,953 - INFO - Converted size: 29.22 MB
+2025-12-03 10:33:02,954 - INFO - Size increase: +25.55 MB (696.0%)
+2025-12-03 10:33:02,954 - INFO - Successfully saved to: converted\IMG_4713.png
+2025-12-03 10:33:02,954 - INFO - ------------------------------------------------------------
+2025-12-03 10:33:02,967 - INFO - Processing: IMG_4714.jpg
+2025-12-03 10:33:02,967 - INFO - Original format: .jpg
+2025-12-03 10:33:02,968 - INFO - Original size: 3.81 MB
+2025-12-03 10:33:02,972 - INFO - Dimensions: 5328x4000
+2025-12-03 10:33:02,973 - INFO - Color mode: RGB
+2025-12-03 10:33:02,973 - INFO - Converting RGB to RGBA
+2025-12-03 10:33:18,130 - INFO - Converted size: 28.78 MB
+2025-12-03 10:33:18,130 - INFO - Size increase: +24.98 MB (656.2%)
+2025-12-03 10:33:18,131 - INFO - Successfully saved to: converted\IMG_4714.png
+2025-12-03 10:33:18,131 - INFO - ------------------------------------------------------------
+2025-12-03 10:33:18,140 - INFO - Processing: IMG_4715.jpg
+2025-12-03 10:33:18,140 - INFO - Original format: .jpg
+2025-12-03 10:33:18,141 - INFO - Original size: 3.89 MB
+2025-12-03 10:33:18,145 - INFO - Dimensions: 5328x4000
+2025-12-03 10:33:18,145 - INFO - Color mode: RGB
+2025-12-03 10:33:18,146 - INFO - Converting RGB to RGBA
+2025-12-03 10:33:33,537 - INFO - Converted size: 29.00 MB
+2025-12-03 10:33:33,537 - INFO - Size increase: +25.12 MB (645.9%)
+2025-12-03 10:33:33,538 - INFO - Successfully saved to: converted\IMG_4715.png
+2025-12-03 10:33:33,538 - INFO - ------------------------------------------------------------
+2025-12-03 10:33:33,550 - INFO - Processing: IMG_4717.jpg
+2025-12-03 10:33:33,550 - INFO - Original format: .jpg
+2025-12-03 10:33:33,551 - INFO - Original size: 3.16 MB
+2025-12-03 10:33:33,555 - INFO - Dimensions: 5328x4000
+2025-12-03 10:33:33,556 - INFO - Color mode: RGB
+2025-12-03 10:33:33,556 - INFO - Converting RGB to RGBA
+2025-12-03 10:33:50,674 - INFO - Converted size: 25.31 MB
+2025-12-03 10:33:50,675 - INFO - Size increase: +22.15 MB (701.1%)
+2025-12-03 10:33:50,675 - INFO - Successfully saved to: converted\IMG_4717.png
+2025-12-03 10:33:50,675 - INFO - ------------------------------------------------------------
+2025-12-03 10:33:50,687 - INFO - Processing: IMG_4718.jpg
+2025-12-03 10:33:50,687 - INFO - Original format: .jpg
+2025-12-03 10:33:50,687 - INFO - Original size: 3.73 MB
+2025-12-03 10:33:50,692 - INFO - Dimensions: 5328x4000
+2025-12-03 10:33:50,692 - INFO - Color mode: RGB
+2025-12-03 10:33:50,693 - INFO - Converting RGB to RGBA
+2025-12-03 10:34:06,518 - INFO - Converted size: 29.63 MB
+2025-12-03 10:34:06,518 - INFO - Size increase: +25.90 MB (694.6%)
+2025-12-03 10:34:06,518 - INFO - Successfully saved to: converted\IMG_4718.png
+2025-12-03 10:34:06,519 - INFO - ------------------------------------------------------------
+2025-12-03 10:34:06,528 - INFO - Processing: IMG_4719.jpg
+2025-12-03 10:34:06,528 - INFO - Original format: .jpg
+2025-12-03 10:34:06,528 - INFO - Original size: 3.48 MB
+2025-12-03 10:34:06,532 - INFO - Dimensions: 5328x4000
+2025-12-03 10:34:06,532 - INFO - Color mode: RGB
+2025-12-03 10:34:06,533 - INFO - Converting RGB to RGBA
+2025-12-03 10:34:17,665 - INFO - Converted size: 26.31 MB
+2025-12-03 10:34:17,666 - INFO - Size increase: +22.83 MB (656.2%)
+2025-12-03 10:34:17,666 - INFO - Successfully saved to: converted\IMG_4719.png
+2025-12-03 10:34:17,666 - INFO - ------------------------------------------------------------
+2025-12-03 10:34:17,674 - INFO - Processing: IMG_4720.jpg
+2025-12-03 10:34:17,675 - INFO - Original format: .jpg
+2025-12-03 10:34:17,675 - INFO - Original size: 4.37 MB
+2025-12-03 10:34:17,679 - INFO - Dimensions: 5328x4000
+2025-12-03 10:34:17,679 - INFO - Color mode: RGB
+2025-12-03 10:34:17,679 - INFO - Converting RGB to RGBA
+2025-12-03 10:34:28,387 - INFO - Converted size: 32.50 MB
+2025-12-03 10:34:28,387 - INFO - Size increase: +28.13 MB (643.5%)
+2025-12-03 10:34:28,387 - INFO - Successfully saved to: converted\IMG_4720.png
+2025-12-03 10:34:28,387 - INFO - ------------------------------------------------------------
+2025-12-03 10:34:28,396 - INFO - Processing: IMG_4721.jpg
+2025-12-03 10:34:28,396 - INFO - Original format: .jpg
+2025-12-03 10:34:28,396 - INFO - Original size: 3.28 MB
+2025-12-03 10:34:28,400 - INFO - Dimensions: 4000x5328
+2025-12-03 10:34:28,401 - INFO - Color mode: RGB
+2025-12-03 10:34:28,401 - INFO - Converting RGB to RGBA
+2025-12-03 10:34:37,379 - INFO - Converted size: 24.18 MB
+2025-12-03 10:34:37,380 - INFO - Size increase: +20.90 MB (637.4%)
+2025-12-03 10:34:37,380 - INFO - Successfully saved to: converted\IMG_4721.png
+2025-12-03 10:34:37,380 - INFO - ------------------------------------------------------------
+2025-12-03 10:34:37,388 - INFO - Processing: IMG_4723.jpg
+2025-12-03 10:34:37,388 - INFO - Original format: .jpg
+2025-12-03 10:34:37,389 - INFO - Original size: 4.28 MB
+2025-12-03 10:34:37,393 - INFO - Dimensions: 5328x4000
+2025-12-03 10:34:37,393 - INFO - Color mode: RGB
+2025-12-03 10:34:37,393 - INFO - Converting RGB to RGBA
+2025-12-03 10:34:47,842 - INFO - Converted size: 32.52 MB
+2025-12-03 10:34:47,842 - INFO - Size increase: +28.24 MB (659.9%)
+2025-12-03 10:34:47,842 - INFO - Successfully saved to: converted\IMG_4723.png
+2025-12-03 10:34:47,843 - INFO - ------------------------------------------------------------
+2025-12-03 10:34:47,851 - INFO - Processing: IMG_4724.jpg
+2025-12-03 10:34:47,851 - INFO - Original format: .jpg
+2025-12-03 10:34:47,851 - INFO - Original size: 4.17 MB
+2025-12-03 10:34:47,856 - INFO - Dimensions: 5328x4000
+2025-12-03 10:34:47,856 - INFO - Color mode: RGB
+2025-12-03 10:34:47,856 - INFO - Converting RGB to RGBA
+2025-12-03 10:34:58,605 - INFO - Converted size: 31.97 MB
+2025-12-03 10:34:58,605 - INFO - Size increase: +27.80 MB (666.4%)
+2025-12-03 10:34:58,605 - INFO - Successfully saved to: converted\IMG_4724.png
+2025-12-03 10:34:58,605 - INFO - ------------------------------------------------------------
+2025-12-03 10:34:58,614 - INFO - Processing: IMG_4729.jpg
+2025-12-03 10:34:58,614 - INFO - Original format: .jpg
+2025-12-03 10:34:58,614 - INFO - Original size: 3.96 MB
+2025-12-03 10:34:58,615 - INFO - Dimensions: 5328x4000
+2025-12-03 10:34:58,615 - INFO - Color mode: RGB
+2025-12-03 10:34:58,615 - INFO - Converting RGB to RGBA
+2025-12-03 10:35:09,674 - INFO - Converted size: 30.39 MB
+2025-12-03 10:35:09,674 - INFO - Size increase: +26.43 MB (667.2%)
+2025-12-03 10:35:09,675 - INFO - Successfully saved to: converted\IMG_4729.png
+2025-12-03 10:35:09,675 - INFO - ------------------------------------------------------------
+2025-12-03 10:35:09,684 - INFO - Processing: IMG_4730.jpg
+2025-12-03 10:35:09,684 - INFO - Original format: .jpg
+2025-12-03 10:35:09,685 - INFO - Original size: 3.52 MB
+2025-12-03 10:35:09,689 - INFO - Dimensions: 5328x4000
+2025-12-03 10:35:09,690 - INFO - Color mode: RGB
+2025-12-03 10:35:09,690 - INFO - Converting RGB to RGBA
+2025-12-03 10:35:21,977 - INFO - Converted size: 27.18 MB
+2025-12-03 10:35:21,978 - INFO - Size increase: +23.66 MB (671.6%)
+2025-12-03 10:35:21,978 - INFO - Successfully saved to: converted\IMG_4730.png
+2025-12-03 10:35:21,978 - INFO - ------------------------------------------------------------
+2025-12-03 10:35:21,988 - INFO - Processing: IMG_4731.jpg
+2025-12-03 10:35:21,988 - INFO - Original format: .jpg
+2025-12-03 10:35:21,988 - INFO - Original size: 4.01 MB
+2025-12-03 10:35:21,989 - INFO - Dimensions: 5328x4000
+2025-12-03 10:35:21,990 - INFO - Color mode: RGB
+2025-12-03 10:35:21,990 - INFO - Converting RGB to RGBA
+2025-12-03 10:35:33,704 - INFO - Converted size: 30.24 MB
+2025-12-03 10:35:33,704 - INFO - Size increase: +26.23 MB (653.7%)
+2025-12-03 10:35:33,704 - INFO - Successfully saved to: converted\IMG_4731.png
+2025-12-03 10:35:33,704 - INFO - ------------------------------------------------------------
+2025-12-03 10:35:33,712 - INFO - Processing: IMG_4732.jpg
+2025-12-03 10:35:33,713 - INFO - Original format: .jpg
+2025-12-03 10:35:33,713 - INFO - Original size: 4.62 MB
+2025-12-03 10:35:33,718 - INFO - Dimensions: 5328x4000
+2025-12-03 10:35:33,718 - INFO - Color mode: RGB
+2025-12-03 10:35:33,718 - INFO - Converting RGB to RGBA
+2025-12-03 10:35:44,977 - INFO - Converted size: 34.34 MB
+2025-12-03 10:35:44,977 - INFO - Size increase: +29.73 MB (644.0%)
+2025-12-03 10:35:44,977 - INFO - Successfully saved to: converted\IMG_4732.png
+2025-12-03 10:35:44,977 - INFO - ------------------------------------------------------------
+2025-12-03 10:35:44,987 - INFO - Processing: IMG_4733.jpg
+2025-12-03 10:35:44,987 - INFO - Original format: .jpg
+2025-12-03 10:35:44,987 - INFO - Original size: 4.23 MB
+2025-12-03 10:35:44,992 - INFO - Dimensions: 5328x4000
+2025-12-03 10:35:44,992 - INFO - Color mode: RGB
+2025-12-03 10:35:44,992 - INFO - Converting RGB to RGBA
+2025-12-03 10:35:57,824 - INFO - Converted size: 31.76 MB
+2025-12-03 10:35:57,824 - INFO - Size increase: +27.53 MB (650.4%)
+2025-12-03 10:35:57,824 - INFO - Successfully saved to: converted\IMG_4733.png
+2025-12-03 10:35:57,824 - INFO - ------------------------------------------------------------
+2025-12-03 10:35:57,833 - INFO - Processing: IMG_4735.jpg
+2025-12-03 10:35:57,833 - INFO - Original format: .jpg
+2025-12-03 10:35:57,833 - INFO - Original size: 4.58 MB
+2025-12-03 10:35:57,838 - INFO - Dimensions: 4000x5328
+2025-12-03 10:35:57,838 - INFO - Color mode: RGB
+2025-12-03 10:35:57,838 - INFO - Converting RGB to RGBA
+2025-12-03 10:36:08,202 - INFO - Converted size: 33.03 MB
+2025-12-03 10:36:08,202 - INFO - Size increase: +28.44 MB (621.0%)
+2025-12-03 10:36:08,202 - INFO - Successfully saved to: converted\IMG_4735.png
+2025-12-03 10:36:08,202 - INFO - ------------------------------------------------------------
+2025-12-03 10:36:08,210 - INFO - Processing: IMG_4736.jpg
+2025-12-03 10:36:08,211 - INFO - Original format: .jpg
+2025-12-03 10:36:08,211 - INFO - Original size: 3.43 MB
+2025-12-03 10:36:08,212 - INFO - Dimensions: 4000x5328
+2025-12-03 10:36:08,212 - INFO - Color mode: RGB
+2025-12-03 10:36:08,212 - INFO - Converting RGB to RGBA
+2025-12-03 10:36:22,158 - INFO - Converted size: 26.35 MB
+2025-12-03 10:36:22,158 - INFO - Size increase: +22.92 MB (668.5%)
+2025-12-03 10:36:22,158 - INFO - Successfully saved to: converted\IMG_4736.png
+2025-12-03 10:36:22,158 - INFO - ------------------------------------------------------------
+2025-12-03 10:36:22,167 - INFO - Processing: IMG_4737.jpg
+2025-12-03 10:36:22,167 - INFO - Original format: .jpg
+2025-12-03 10:36:22,167 - INFO - Original size: 3.67 MB
+2025-12-03 10:36:22,172 - INFO - Dimensions: 5328x4000
+2025-12-03 10:36:22,172 - INFO - Color mode: RGB
+2025-12-03 10:36:22,172 - INFO - Converting RGB to RGBA
+2025-12-03 10:36:36,767 - INFO - Converted size: 29.84 MB
+2025-12-03 10:36:36,767 - INFO - Size increase: +26.17 MB (712.3%)
+2025-12-03 10:36:36,768 - INFO - Successfully saved to: converted\IMG_4737.png
+2025-12-03 10:36:36,768 - INFO - ------------------------------------------------------------
+2025-12-03 10:36:36,776 - INFO - Processing: IMG_4738.jpg
+2025-12-03 10:36:36,776 - INFO - Original format: .jpg
+2025-12-03 10:36:36,776 - INFO - Original size: 3.44 MB
+2025-12-03 10:36:36,781 - INFO - Dimensions: 5328x4000
+2025-12-03 10:36:36,782 - INFO - Color mode: RGB
+2025-12-03 10:36:36,782 - INFO - Converting RGB to RGBA
+2025-12-03 10:36:50,928 - INFO - Converted size: 27.80 MB
+2025-12-03 10:36:50,929 - INFO - Size increase: +24.36 MB (708.2%)
+2025-12-03 10:36:50,929 - INFO - Successfully saved to: converted\IMG_4738.png
+2025-12-03 10:36:50,929 - INFO - ------------------------------------------------------------
+2025-12-03 10:36:50,937 - INFO - Processing: IMG_4739.jpg
+2025-12-03 10:36:50,938 - INFO - Original format: .jpg
+2025-12-03 10:36:50,938 - INFO - Original size: 3.55 MB
+2025-12-03 10:36:50,942 - INFO - Dimensions: 5328x4000
+2025-12-03 10:36:50,943 - INFO - Color mode: RGB
+2025-12-03 10:36:50,943 - INFO - Converting RGB to RGBA
+2025-12-03 10:37:07,484 - INFO - Converted size: 29.38 MB
+2025-12-03 10:37:07,485 - INFO - Size increase: +25.82 MB (727.1%)
+2025-12-03 10:37:07,485 - INFO - Successfully saved to: converted\IMG_4739.png
+2025-12-03 10:37:07,485 - INFO - ------------------------------------------------------------
+2025-12-03 10:37:07,494 - INFO - Processing: IMG_4740.jpg
+2025-12-03 10:37:07,494 - INFO - Original format: .jpg
+2025-12-03 10:37:07,494 - INFO - Original size: 3.63 MB
+2025-12-03 10:37:07,499 - INFO - Dimensions: 5328x4000
+2025-12-03 10:37:07,499 - INFO - Color mode: RGB
+2025-12-03 10:37:07,499 - INFO - Converting RGB to RGBA
+2025-12-03 10:37:22,628 - INFO - Converted size: 29.87 MB
+2025-12-03 10:37:22,629 - INFO - Size increase: +26.23 MB (721.9%)
+2025-12-03 10:37:22,629 - INFO - Successfully saved to: converted\IMG_4740.png
+2025-12-03 10:37:22,629 - INFO - ------------------------------------------------------------
+2025-12-03 10:37:22,637 - INFO - Processing: IMG_4742.jpg
+2025-12-03 10:37:22,637 - INFO - Original format: .jpg
+2025-12-03 10:37:22,637 - INFO - Original size: 3.16 MB
+2025-12-03 10:37:22,641 - INFO - Dimensions: 4000x5328
+2025-12-03 10:37:22,642 - INFO - Color mode: RGB
+2025-12-03 10:37:22,642 - INFO - Converting RGB to RGBA
+2025-12-03 10:37:39,277 - INFO - Converted size: 23.97 MB
+2025-12-03 10:37:39,277 - INFO - Size increase: +20.81 MB (658.9%)
+2025-12-03 10:37:39,277 - INFO - Successfully saved to: converted\IMG_4742.png
+2025-12-03 10:37:39,277 - INFO - ------------------------------------------------------------
+2025-12-03 10:37:39,288 - INFO - Processing: IMG_4743.jpg
+2025-12-03 10:37:39,288 - INFO - Original format: .jpg
+2025-12-03 10:37:39,288 - INFO - Original size: 3.53 MB
+2025-12-03 10:37:39,293 - INFO - Dimensions: 5328x4000
+2025-12-03 10:37:39,293 - INFO - Color mode: RGB
+2025-12-03 10:37:39,293 - INFO - Converting RGB to RGBA
+2025-12-03 10:38:00,566 - INFO - Converted size: 28.64 MB
+2025-12-03 10:38:00,566 - INFO - Size increase: +25.11 MB (712.1%)
+2025-12-03 10:38:00,566 - INFO - Successfully saved to: converted\IMG_4743.png
+2025-12-03 10:38:00,567 - INFO - ------------------------------------------------------------
+2025-12-03 10:38:00,578 - INFO - Processing: IMG_4744.jpg
+2025-12-03 10:38:00,578 - INFO - Original format: .jpg
+2025-12-03 10:38:00,578 - INFO - Original size: 2.47 MB
+2025-12-03 10:38:00,579 - INFO - Dimensions: 4000x5328
+2025-12-03 10:38:00,579 - INFO - Color mode: RGB
+2025-12-03 10:38:00,580 - INFO - Converting RGB to RGBA
+2025-12-03 10:38:25,858 - INFO - Converted size: 21.51 MB
+2025-12-03 10:38:25,858 - INFO - Size increase: +19.04 MB (771.7%)
+2025-12-03 10:38:25,858 - INFO - Successfully saved to: converted\IMG_4744.png
+2025-12-03 10:38:25,859 - INFO - ------------------------------------------------------------
+2025-12-03 10:38:25,872 - INFO - Processing: IMG_4745.jpg
+2025-12-03 10:38:25,872 - INFO - Original format: .jpg
+2025-12-03 10:38:25,873 - INFO - Original size: 3.79 MB
+2025-12-03 10:38:25,873 - INFO - Dimensions: 4000x5328
+2025-12-03 10:38:25,874 - INFO - Color mode: RGB
+2025-12-03 10:38:25,874 - INFO - Converting RGB to RGBA
+2025-12-03 10:38:44,822 - INFO - Converted size: 29.67 MB
+2025-12-03 10:38:44,822 - INFO - Size increase: +25.87 MB (681.9%)
+2025-12-03 10:38:44,822 - INFO - Successfully saved to: converted\IMG_4745.png
+2025-12-03 10:38:44,823 - INFO - ------------------------------------------------------------
+2025-12-03 10:38:44,836 - INFO - Processing: IMG_4746.jpg
+2025-12-03 10:38:44,837 - INFO - Original format: .jpg
+2025-12-03 10:38:44,837 - INFO - Original size: 2.75 MB
+2025-12-03 10:38:44,842 - INFO - Dimensions: 4000x5328
+2025-12-03 10:38:44,842 - INFO - Color mode: RGB
+2025-12-03 10:38:44,843 - INFO - Converting RGB to RGBA
+2025-12-03 10:39:11,837 - INFO - Converted size: 23.37 MB
+2025-12-03 10:39:11,837 - INFO - Size increase: +20.62 MB (750.4%)
+2025-12-03 10:39:11,837 - INFO - Successfully saved to: converted\IMG_4746.png
+2025-12-03 10:39:11,838 - INFO - ------------------------------------------------------------
+2025-12-03 10:39:11,850 - INFO - Processing: IMG_9439.jpg
+2025-12-03 10:39:11,850 - INFO - Original format: .jpg
+2025-12-03 10:39:11,850 - INFO - Original size: 5.38 MB
+2025-12-03 10:39:11,855 - INFO - Dimensions: 5328x4000
+2025-12-03 10:39:11,855 - INFO - Color mode: RGB
+2025-12-03 10:39:11,856 - INFO - Converting RGB to RGBA
+2025-12-03 10:39:31,942 - INFO - Converted size: 37.98 MB
+2025-12-03 10:39:31,942 - INFO - Size increase: +32.60 MB (606.5%)
+2025-12-03 10:39:31,942 - INFO - Successfully saved to: converted\IMG_9439.png
+2025-12-03 10:39:31,943 - INFO - ------------------------------------------------------------
+2025-12-03 10:39:31,956 - INFO - Processing: IMG_9440.jpg
+2025-12-03 10:39:31,956 - INFO - Original format: .jpg
+2025-12-03 10:39:31,956 - INFO - Original size: 6.11 MB
+2025-12-03 10:39:31,961 - INFO - Dimensions: 5328x4000
+2025-12-03 10:39:31,961 - INFO - Color mode: RGB
+2025-12-03 10:39:31,962 - INFO - Converting RGB to RGBA
+2025-12-03 10:39:49,451 - INFO - Converted size: 41.37 MB
+2025-12-03 10:39:49,451 - INFO - Size increase: +35.26 MB (576.7%)
+2025-12-03 10:39:49,452 - INFO - Successfully saved to: converted\IMG_9440.png
+2025-12-03 10:39:49,452 - INFO - ------------------------------------------------------------
+2025-12-03 10:39:49,464 - INFO - Processing: IMG_9441.jpg
+2025-12-03 10:39:49,465 - INFO - Original format: .jpg
+2025-12-03 10:39:49,465 - INFO - Original size: 4.09 MB
+2025-12-03 10:39:49,470 - INFO - Dimensions: 5328x4000
+2025-12-03 10:39:49,470 - INFO - Color mode: RGB
+2025-12-03 10:39:49,471 - INFO - Converting RGB to RGBA
+2025-12-03 10:40:15,341 - INFO - Converted size: 33.02 MB
+2025-12-03 10:40:15,341 - INFO - Size increase: +28.93 MB (707.9%)
+2025-12-03 10:40:15,341 - INFO - Successfully saved to: converted\IMG_9441.png
+2025-12-03 10:40:15,342 - INFO - ------------------------------------------------------------
+2025-12-03 10:40:15,352 - INFO - Processing: IMG_9442.jpg
+2025-12-03 10:40:15,352 - INFO - Original format: .jpg
+2025-12-03 10:40:15,353 - INFO - Original size: 4.69 MB
+2025-12-03 10:40:15,358 - INFO - Dimensions: 5328x4000
+2025-12-03 10:40:15,358 - INFO - Color mode: RGB
+2025-12-03 10:40:15,358 - INFO - Converting RGB to RGBA
+2025-12-03 10:40:36,566 - INFO - Converted size: 35.81 MB
+2025-12-03 10:40:36,567 - INFO - Size increase: +31.12 MB (663.7%)
+2025-12-03 10:40:36,567 - INFO - Successfully saved to: converted\IMG_9442.png
+2025-12-03 10:40:36,567 - INFO - ------------------------------------------------------------
+2025-12-03 10:40:36,576 - INFO - Processing: IMG_9443.jpg
+2025-12-03 10:40:36,576 - INFO - Original format: .jpg
+2025-12-03 10:40:36,576 - INFO - Original size: 4.68 MB
+2025-12-03 10:40:36,580 - INFO - Dimensions: 5328x4000
+2025-12-03 10:40:36,581 - INFO - Color mode: RGB
+2025-12-03 10:40:36,581 - INFO - Converting RGB to RGBA
+2025-12-03 10:40:57,500 - INFO - Converted size: 35.44 MB
+2025-12-03 10:40:57,500 - INFO - Size increase: +30.76 MB (657.4%)
+2025-12-03 10:40:57,501 - INFO - Successfully saved to: converted\IMG_9443.png
+2025-12-03 10:40:57,501 - INFO - ------------------------------------------------------------
+2025-12-03 10:40:57,515 - INFO - Processing: IMG_9444.jpg
+2025-12-03 10:40:57,515 - INFO - Original format: .jpg
+2025-12-03 10:40:57,516 - INFO - Original size: 5.13 MB
+2025-12-03 10:40:57,521 - INFO - Dimensions: 5328x4000
+2025-12-03 10:40:57,521 - INFO - Color mode: RGB
+2025-12-03 10:40:57,521 - INFO - Converting RGB to RGBA
+2025-12-03 10:41:16,549 - INFO - Converted size: 36.94 MB
+2025-12-03 10:41:16,549 - INFO - Size increase: +31.81 MB (619.6%)
+2025-12-03 10:41:16,549 - INFO - Successfully saved to: converted\IMG_9444.png
+2025-12-03 10:41:16,550 - INFO - ------------------------------------------------------------
+2025-12-03 10:41:16,565 - INFO - Processing: IMG_9445.jpg
+2025-12-03 10:41:16,565 - INFO - Original format: .jpg
+2025-12-03 10:41:16,566 - INFO - Original size: 5.77 MB
+2025-12-03 10:41:16,571 - INFO - Dimensions: 5328x4000
+2025-12-03 10:41:16,571 - INFO - Color mode: RGB
+2025-12-03 10:41:16,572 - INFO - Converting RGB to RGBA
+2025-12-03 10:41:35,232 - INFO - Converted size: 41.52 MB
+2025-12-03 10:41:35,232 - INFO - Size increase: +35.76 MB (620.2%)
+2025-12-03 10:41:35,233 - INFO - Successfully saved to: converted\IMG_9445.png
+2025-12-03 10:41:35,233 - INFO - ------------------------------------------------------------
+2025-12-03 10:41:35,244 - INFO - Processing: IMG_9446.jpg
+2025-12-03 10:41:35,244 - INFO - Original format: .jpg
+2025-12-03 10:41:35,244 - INFO - Original size: 5.58 MB
+2025-12-03 10:41:35,249 - INFO - Dimensions: 5328x4000
+2025-12-03 10:41:35,249 - INFO - Color mode: RGB
+2025-12-03 10:41:35,249 - INFO - Converting RGB to RGBA
+2025-12-03 10:41:53,559 - INFO - Converted size: 41.41 MB
+2025-12-03 10:41:53,560 - INFO - Size increase: +35.83 MB (641.9%)
+2025-12-03 10:41:53,560 - INFO - Successfully saved to: converted\IMG_9446.png
+2025-12-03 10:41:53,561 - INFO - ------------------------------------------------------------
+2025-12-03 10:41:53,579 - INFO - Processing: IMG_9447.jpg
+2025-12-03 10:41:53,580 - INFO - Original format: .jpg
+2025-12-03 10:41:53,580 - INFO - Original size: 4.13 MB
+2025-12-03 10:41:53,585 - INFO - Dimensions: 5328x4000
+2025-12-03 10:41:53,585 - INFO - Color mode: RGB
+2025-12-03 10:41:53,586 - INFO - Converting RGB to RGBA
+2025-12-03 10:42:20,617 - INFO - Converted size: 33.09 MB
+2025-12-03 10:42:20,618 - INFO - Size increase: +28.96 MB (702.1%)
+2025-12-03 10:42:20,618 - INFO - Successfully saved to: converted\IMG_9447.png
+2025-12-03 10:42:20,618 - INFO - ------------------------------------------------------------
+2025-12-03 10:42:20,630 - INFO - Processing: IMG_9448.jpg
+2025-12-03 10:42:20,630 - INFO - Original format: .jpg
+2025-12-03 10:42:20,631 - INFO - Original size: 5.12 MB
+2025-12-03 10:42:20,636 - INFO - Dimensions: 5328x4000
+2025-12-03 10:42:20,636 - INFO - Color mode: RGB
+2025-12-03 10:42:20,636 - INFO - Converting RGB to RGBA
+2025-12-03 10:42:40,917 - INFO - Converted size: 39.44 MB
+2025-12-03 10:42:40,917 - INFO - Size increase: +34.32 MB (670.0%)
+2025-12-03 10:42:40,917 - INFO - Successfully saved to: converted\IMG_9448.png
+2025-12-03 10:42:40,917 - INFO - ------------------------------------------------------------
+2025-12-03 10:42:40,929 - INFO - Processing: IMG_9449.jpg
+2025-12-03 10:42:40,929 - INFO - Original format: .jpg
+2025-12-03 10:42:40,929 - INFO - Original size: 4.08 MB
+2025-12-03 10:42:40,930 - INFO - Dimensions: 5328x4000
+2025-12-03 10:42:40,930 - INFO - Color mode: RGB
+2025-12-03 10:42:40,931 - INFO - Converting RGB to RGBA
+2025-12-03 10:43:04,413 - INFO - Converted size: 30.73 MB
+2025-12-03 10:43:04,413 - INFO - Size increase: +26.65 MB (653.9%)
+2025-12-03 10:43:04,413 - INFO - Successfully saved to: converted\IMG_9449.png
+2025-12-03 10:43:04,414 - INFO - ------------------------------------------------------------
+2025-12-03 10:43:04,425 - INFO - Processing: IMG_9450.jpg
+2025-12-03 10:43:04,425 - INFO - Original format: .jpg
+2025-12-03 10:43:04,425 - INFO - Original size: 4.76 MB
+2025-12-03 10:43:04,426 - INFO - Dimensions: 5328x4000
+2025-12-03 10:43:04,427 - INFO - Color mode: RGB
+2025-12-03 10:43:04,427 - INFO - Converting RGB to RGBA
+2025-12-03 10:43:26,936 - INFO - Converted size: 36.43 MB
+2025-12-03 10:43:26,937 - INFO - Size increase: +31.66 MB (665.1%)
+2025-12-03 10:43:26,937 - INFO - Successfully saved to: converted\IMG_9450.png
+2025-12-03 10:43:26,937 - INFO - ------------------------------------------------------------
+2025-12-03 10:43:26,952 - INFO - Processing: IMG_9452.jpg
+2025-12-03 10:43:26,952 - INFO - Original format: .jpg
+2025-12-03 10:43:26,953 - INFO - Original size: 4.19 MB
+2025-12-03 10:43:26,957 - INFO - Dimensions: 4000x5328
+2025-12-03 10:43:26,957 - INFO - Color mode: RGB
+2025-12-03 10:43:26,958 - INFO - Converting RGB to RGBA
+2025-12-03 10:43:45,775 - INFO - Converted size: 31.43 MB
+2025-12-03 10:43:45,775 - INFO - Size increase: +27.25 MB (650.7%)
+2025-12-03 10:43:45,775 - INFO - Successfully saved to: converted\IMG_9452.png
+2025-12-03 10:43:45,776 - INFO - ------------------------------------------------------------
+2025-12-03 10:43:45,788 - INFO - Processing: IMG_9454.jpg
+2025-12-03 10:43:45,789 - INFO - Original format: .jpg
+2025-12-03 10:43:45,789 - INFO - Original size: 6.74 MB
+2025-12-03 10:43:45,793 - INFO - Dimensions: 5328x4000
+2025-12-03 10:43:45,794 - INFO - Color mode: RGB
+2025-12-03 10:43:45,794 - INFO - Converting RGB to RGBA
+2025-12-03 10:44:01,190 - INFO - Converted size: 46.54 MB
+2025-12-03 10:44:01,190 - INFO - Size increase: +39.80 MB (590.7%)
+2025-12-03 10:44:01,191 - INFO - Successfully saved to: converted\IMG_9454.png
+2025-12-03 10:44:01,191 - INFO - ------------------------------------------------------------
+2025-12-03 10:44:01,202 - INFO - Processing: IMG_9455.jpg
+2025-12-03 10:44:01,203 - INFO - Original format: .jpg
+2025-12-03 10:44:01,203 - INFO - Original size: 2.49 MB
+2025-12-03 10:44:01,204 - INFO - Dimensions: 5328x4000
+2025-12-03 10:44:01,204 - INFO - Color mode: RGB
+2025-12-03 10:44:01,204 - INFO - Converting RGB to RGBA
+2025-12-03 10:44:31,009 - INFO - Converted size: 23.13 MB
+2025-12-03 10:44:31,009 - INFO - Size increase: +20.64 MB (827.9%)
+2025-12-03 10:44:31,009 - INFO - Successfully saved to: converted\IMG_9455.png
+2025-12-03 10:44:31,010 - INFO - ------------------------------------------------------------
+2025-12-03 10:44:31,020 - INFO - Processing: IMG_9456.jpg
+2025-12-03 10:44:31,020 - INFO - Original format: .jpg
+2025-12-03 10:44:31,020 - INFO - Original size: 4.27 MB
+2025-12-03 10:44:31,025 - INFO - Dimensions: 5328x4000
+2025-12-03 10:44:31,025 - INFO - Color mode: RGB
+2025-12-03 10:44:31,026 - INFO - Converting RGB to RGBA
+2025-12-03 10:44:52,207 - INFO - Converted size: 33.43 MB
+2025-12-03 10:44:52,208 - INFO - Size increase: +29.16 MB (682.9%)
+2025-12-03 10:44:52,208 - INFO - Successfully saved to: converted\IMG_9456.png
+2025-12-03 10:44:52,208 - INFO - ------------------------------------------------------------
+2025-12-03 10:44:52,219 - INFO - Processing: IMG_9457.jpg
+2025-12-03 10:44:52,219 - INFO - Original format: .jpg
+2025-12-03 10:44:52,219 - INFO - Original size: 4.62 MB
+2025-12-03 10:44:52,224 - INFO - Dimensions: 5248x3703
+2025-12-03 10:44:52,224 - INFO - Color mode: RGB
+2025-12-03 10:44:52,225 - INFO - Converting RGB to RGBA
+2025-12-03 10:45:05,375 - INFO - Converted size: 33.75 MB
+2025-12-03 10:45:05,375 - INFO - Size increase: +29.13 MB (630.4%)
+2025-12-03 10:45:05,375 - INFO - Successfully saved to: converted\IMG_9457.png
+2025-12-03 10:45:05,375 - INFO - ------------------------------------------------------------
+2025-12-03 10:45:05,385 - INFO - Processing: IMG_9459.jpg
+2025-12-03 10:45:05,385 - INFO - Original format: .jpg
+2025-12-03 10:45:05,385 - INFO - Original size: 6.43 MB
+2025-12-03 10:45:05,390 - INFO - Dimensions: 5328x4000
+2025-12-03 10:45:05,390 - INFO - Color mode: RGB
+2025-12-03 10:45:05,390 - INFO - Converting RGB to RGBA
+2025-12-03 10:45:20,520 - INFO - Converted size: 42.83 MB
+2025-12-03 10:45:20,521 - INFO - Size increase: +36.40 MB (566.1%)
+2025-12-03 10:45:20,521 - INFO - Successfully saved to: converted\IMG_9459.png
+2025-12-03 10:45:20,521 - INFO - ------------------------------------------------------------
+2025-12-03 10:45:20,532 - INFO - Processing: IMG_9460.jpg
+2025-12-03 10:45:20,533 - INFO - Original format: .jpg
+2025-12-03 10:45:20,533 - INFO - Original size: 5.80 MB
+2025-12-03 10:45:20,537 - INFO - Dimensions: 5328x4000
+2025-12-03 10:45:20,538 - INFO - Color mode: RGB
+2025-12-03 10:45:20,538 - INFO - Converting RGB to RGBA
+2025-12-03 10:45:32,302 - INFO - Converted size: 37.67 MB
+2025-12-03 10:45:32,303 - INFO - Size increase: +31.87 MB (549.0%)
+2025-12-03 10:45:32,303 - INFO - Successfully saved to: converted\IMG_9460.png
+2025-12-03 10:45:32,303 - INFO - ------------------------------------------------------------
+2025-12-03 10:45:32,316 - INFO - Processing: IMG_9461.jpg
+2025-12-03 10:45:32,316 - INFO - Original format: .jpg
+2025-12-03 10:45:32,317 - INFO - Original size: 5.51 MB
+2025-12-03 10:45:32,321 - INFO - Dimensions: 5328x4000
+2025-12-03 10:45:32,321 - INFO - Color mode: RGB
+2025-12-03 10:45:32,322 - INFO - Converting RGB to RGBA
+2025-12-03 10:45:50,281 - INFO - Converted size: 37.67 MB
+2025-12-03 10:45:50,281 - INFO - Size increase: +32.16 MB (583.4%)
+2025-12-03 10:45:50,281 - INFO - Successfully saved to: converted\IMG_9461.png
+2025-12-03 10:45:50,281 - INFO - ------------------------------------------------------------
+2025-12-03 10:45:50,292 - INFO - Processing: IMG_9462.jpg
+2025-12-03 10:45:50,293 - INFO - Original format: .jpg
+2025-12-03 10:45:50,293 - INFO - Original size: 5.98 MB
+2025-12-03 10:45:50,294 - INFO - Dimensions: 5328x4000
+2025-12-03 10:45:50,294 - INFO - Color mode: RGB
+2025-12-03 10:45:50,294 - INFO - Converting RGB to RGBA
+2025-12-03 10:46:05,808 - INFO - Converted size: 41.73 MB
+2025-12-03 10:46:05,809 - INFO - Size increase: +35.76 MB (598.3%)
+2025-12-03 10:46:05,809 - INFO - Successfully saved to: converted\IMG_9462.png
+2025-12-03 10:46:05,809 - INFO - ------------------------------------------------------------
+2025-12-03 10:46:05,817 - INFO - Processing: IMG_9463.jpg
+2025-12-03 10:46:05,817 - INFO - Original format: .jpg
+2025-12-03 10:46:05,817 - INFO - Original size: 5.36 MB
+2025-12-03 10:46:05,818 - INFO - Dimensions: 5328x4000
+2025-12-03 10:46:05,818 - INFO - Color mode: RGB
+2025-12-03 10:46:05,818 - INFO - Converting RGB to RGBA
+2025-12-03 10:46:25,708 - INFO - Converted size: 38.64 MB
+2025-12-03 10:46:25,708 - INFO - Size increase: +33.29 MB (621.3%)
+2025-12-03 10:46:25,708 - INFO - Successfully saved to: converted\IMG_9463.png
+2025-12-03 10:46:25,708 - INFO - ------------------------------------------------------------
+2025-12-03 10:46:25,720 - INFO - Processing: IMG_9464.jpg
+2025-12-03 10:46:25,720 - INFO - Original format: .jpg
+2025-12-03 10:46:25,720 - INFO - Original size: 6.49 MB
+2025-12-03 10:46:25,721 - INFO - Dimensions: 5328x4000
+2025-12-03 10:46:25,722 - INFO - Color mode: RGB
+2025-12-03 10:46:25,722 - INFO - Converting RGB to RGBA
+2025-12-03 10:46:41,348 - INFO - Converted size: 41.32 MB
+2025-12-03 10:46:41,348 - INFO - Size increase: +34.83 MB (537.0%)
+2025-12-03 10:46:41,349 - INFO - Successfully saved to: converted\IMG_9464.png
+2025-12-03 10:46:41,349 - INFO - ------------------------------------------------------------
+2025-12-03 10:46:41,370 - INFO - Processing: IMG_9465.jpg
+2025-12-03 10:46:41,370 - INFO - Original format: .jpg
+2025-12-03 10:46:41,371 - INFO - Original size: 5.55 MB
+2025-12-03 10:46:41,376 - INFO - Dimensions: 5328x4000
+2025-12-03 10:46:41,376 - INFO - Color mode: RGB
+2025-12-03 10:46:41,377 - INFO - Converting RGB to RGBA
+2025-12-03 10:46:58,803 - INFO - Converted size: 39.47 MB
+2025-12-03 10:46:58,804 - INFO - Size increase: +33.91 MB (610.8%)
+2025-12-03 10:46:58,804 - INFO - Successfully saved to: converted\IMG_9465.png
+2025-12-03 10:46:58,804 - INFO - ------------------------------------------------------------
+2025-12-03 10:46:58,815 - INFO - Processing: IMG_9466.jpg
+2025-12-03 10:46:58,815 - INFO - Original format: .jpg
+2025-12-03 10:46:58,815 - INFO - Original size: 5.32 MB
+2025-12-03 10:46:58,820 - INFO - Dimensions: 5328x4000
+2025-12-03 10:46:58,820 - INFO - Color mode: RGB
+2025-12-03 10:46:58,820 - INFO - Converting RGB to RGBA
+2025-12-03 10:47:18,679 - INFO - Converted size: 39.33 MB
+2025-12-03 10:47:18,680 - INFO - Size increase: +34.02 MB (640.0%)
+2025-12-03 10:47:18,680 - INFO - Successfully saved to: converted\IMG_9466.png
+2025-12-03 10:47:18,680 - INFO - ------------------------------------------------------------
+2025-12-03 10:47:18,691 - INFO - Processing: IMG_9467.jpg
+2025-12-03 10:47:18,692 - INFO - Original format: .jpg
+2025-12-03 10:47:18,692 - INFO - Original size: 6.02 MB
+2025-12-03 10:47:18,697 - INFO - Dimensions: 5328x4000
+2025-12-03 10:47:18,697 - INFO - Color mode: RGB
+2025-12-03 10:47:18,697 - INFO - Converting RGB to RGBA
+2025-12-03 10:47:33,370 - INFO - Converted size: 39.85 MB
+2025-12-03 10:47:33,370 - INFO - Size increase: +33.83 MB (561.9%)
+2025-12-03 10:47:33,371 - INFO - Successfully saved to: converted\IMG_9467.png
+2025-12-03 10:47:33,371 - INFO - ------------------------------------------------------------
+2025-12-03 10:47:33,387 - INFO - Processing: IMG_9468.jpg
+2025-12-03 10:47:33,387 - INFO - Original format: .jpg
+2025-12-03 10:47:33,388 - INFO - Original size: 4.97 MB
+2025-12-03 10:47:33,392 - INFO - Dimensions: 5328x4000
+2025-12-03 10:47:33,393 - INFO - Color mode: RGB
+2025-12-03 10:47:33,393 - INFO - Converting RGB to RGBA
+2025-12-03 10:47:51,509 - INFO - Converted size: 36.80 MB
+2025-12-03 10:47:51,509 - INFO - Size increase: +31.83 MB (640.7%)
+2025-12-03 10:47:51,509 - INFO - Successfully saved to: converted\IMG_9468.png
+2025-12-03 10:47:51,510 - INFO - ------------------------------------------------------------
+2025-12-03 10:47:51,523 - INFO - Processing: IMG_9469.jpg
+2025-12-03 10:47:51,523 - INFO - Original format: .jpg
+2025-12-03 10:47:51,523 - INFO - Original size: 5.53 MB
+2025-12-03 10:47:51,528 - INFO - Dimensions: 5328x4000
+2025-12-03 10:47:51,528 - INFO - Color mode: RGB
+2025-12-03 10:47:51,529 - INFO - Converting RGB to RGBA
+2025-12-03 10:48:06,642 - INFO - Converted size: 37.92 MB
+2025-12-03 10:48:06,642 - INFO - Size increase: +32.39 MB (586.1%)
+2025-12-03 10:48:06,642 - INFO - Successfully saved to: converted\IMG_9469.png
+2025-12-03 10:48:06,643 - INFO - ------------------------------------------------------------
+2025-12-03 10:48:06,656 - INFO - Processing: IMG_9470.jpg
+2025-12-03 10:48:06,657 - INFO - Original format: .jpg
+2025-12-03 10:48:06,657 - INFO - Original size: 4.90 MB
+2025-12-03 10:48:06,661 - INFO - Dimensions: 5328x4000
+2025-12-03 10:48:06,662 - INFO - Color mode: RGB
+2025-12-03 10:48:06,662 - INFO - Converting RGB to RGBA
+2025-12-03 10:48:26,019 - INFO - Converted size: 38.28 MB
+2025-12-03 10:48:26,020 - INFO - Size increase: +33.38 MB (681.6%)
+2025-12-03 10:48:26,020 - INFO - Successfully saved to: converted\IMG_9470.png
+2025-12-03 10:48:26,020 - INFO - ------------------------------------------------------------
+2025-12-03 10:48:26,032 - INFO - Processing: IMG_9471.jpg
+2025-12-03 10:48:26,032 - INFO - Original format: .jpg
+2025-12-03 10:48:26,033 - INFO - Original size: 5.28 MB
+2025-12-03 10:48:26,037 - INFO - Dimensions: 5328x4000
+2025-12-03 10:48:26,038 - INFO - Color mode: RGB
+2025-12-03 10:48:26,038 - INFO - Converting RGB to RGBA
+2025-12-03 10:48:40,294 - INFO - Converted size: 37.91 MB
+2025-12-03 10:48:40,294 - INFO - Size increase: +32.63 MB (618.5%)
+2025-12-03 10:48:40,295 - INFO - Successfully saved to: converted\IMG_9471.png
+2025-12-03 10:48:40,295 - INFO - ------------------------------------------------------------
+2025-12-03 10:48:40,306 - INFO - Processing: IMG_9473.jpg
+2025-12-03 10:48:40,307 - INFO - Original format: .jpg
+2025-12-03 10:48:40,307 - INFO - Original size: 1.97 MB
+2025-12-03 10:48:40,312 - INFO - Dimensions: 4000x5328
+2025-12-03 10:48:40,312 - INFO - Color mode: RGB
+2025-12-03 10:48:40,312 - INFO - Converting RGB to RGBA
+2025-12-03 10:49:07,928 - INFO - Converted size: 17.21 MB
+2025-12-03 10:49:07,928 - INFO - Size increase: +15.24 MB (773.8%)
+2025-12-03 10:49:07,928 - INFO - Successfully saved to: converted\IMG_9473.png
+2025-12-03 10:49:07,928 - INFO - ------------------------------------------------------------
+2025-12-03 10:49:07,943 - INFO - Processing: IMG_9475.jpg
+2025-12-03 10:49:07,943 - INFO - Original format: .jpg
+2025-12-03 10:49:07,943 - INFO - Original size: 3.13 MB
+2025-12-03 10:49:07,944 - INFO - Dimensions: 4000x5328
+2025-12-03 10:49:07,945 - INFO - Color mode: RGB
+2025-12-03 10:49:07,945 - INFO - Converting RGB to RGBA
+2025-12-03 10:49:30,542 - INFO - Converted size: 25.58 MB
+2025-12-03 10:49:30,542 - INFO - Size increase: +22.45 MB (717.6%)
+2025-12-03 10:49:30,542 - INFO - Successfully saved to: converted\IMG_9475.png
+2025-12-03 10:49:30,543 - INFO - ------------------------------------------------------------
+2025-12-03 10:49:30,557 - INFO - Processing: IMG_9478.jpg
+2025-12-03 10:49:30,557 - INFO - Original format: .jpg
+2025-12-03 10:49:30,558 - INFO - Original size: 3.04 MB
+2025-12-03 10:49:30,563 - INFO - Dimensions: 5328x4000
+2025-12-03 10:49:30,563 - INFO - Color mode: RGB
+2025-12-03 10:49:30,564 - INFO - Converting RGB to RGBA
+2025-12-03 10:49:53,264 - INFO - Converted size: 24.76 MB
+2025-12-03 10:49:53,264 - INFO - Size increase: +21.72 MB (714.7%)
+2025-12-03 10:49:53,264 - INFO - Successfully saved to: converted\IMG_9478.png
+2025-12-03 10:49:53,264 - INFO - ------------------------------------------------------------
+2025-12-03 10:49:53,275 - INFO - Processing: IMG_9479.jpg
+2025-12-03 10:49:53,275 - INFO - Original format: .jpg
+2025-12-03 10:49:53,275 - INFO - Original size: 2.52 MB
+2025-12-03 10:49:53,280 - INFO - Dimensions: 5328x4000
+2025-12-03 10:49:53,280 - INFO - Color mode: RGB
+2025-12-03 10:49:53,280 - INFO - Converting RGB to RGBA
+2025-12-03 10:50:18,137 - INFO - Converted size: 21.45 MB
+2025-12-03 10:50:18,137 - INFO - Size increase: +18.93 MB (751.6%)
+2025-12-03 10:50:18,137 - INFO - Successfully saved to: converted\IMG_9479.png
+2025-12-03 10:50:18,138 - INFO - ------------------------------------------------------------
+2025-12-03 10:50:18,148 - INFO - Processing: IMG_9480.jpg
+2025-12-03 10:50:18,149 - INFO - Original format: .jpg
+2025-12-03 10:50:18,149 - INFO - Original size: 2.52 MB
+2025-12-03 10:50:18,153 - INFO - Dimensions: 5328x4000
+2025-12-03 10:50:18,154 - INFO - Color mode: RGB
+2025-12-03 10:50:18,154 - INFO - Converting RGB to RGBA
+2025-12-03 10:50:40,275 - INFO - Converted size: 20.46 MB
+2025-12-03 10:50:40,276 - INFO - Size increase: +17.94 MB (712.0%)
+2025-12-03 10:50:40,276 - INFO - Successfully saved to: converted\IMG_9480.png
+2025-12-03 10:50:40,276 - INFO - ------------------------------------------------------------
+2025-12-03 10:50:40,286 - INFO - Processing: IMG_9483.jpg
+2025-12-03 10:50:40,286 - INFO - Original format: .jpg
+2025-12-03 10:50:40,287 - INFO - Original size: 3.84 MB
+2025-12-03 10:50:40,291 - INFO - Dimensions: 5328x4000
+2025-12-03 10:50:40,292 - INFO - Color mode: RGB
+2025-12-03 10:50:40,292 - INFO - Converting RGB to RGBA
+2025-12-03 10:51:01,196 - INFO - Converted size: 29.18 MB
+2025-12-03 10:51:01,196 - INFO - Size increase: +25.34 MB (659.7%)
+2025-12-03 10:51:01,196 - INFO - Successfully saved to: converted\IMG_9483.png
+2025-12-03 10:51:01,197 - INFO - ------------------------------------------------------------
+2025-12-03 10:51:01,209 - INFO - Processing: IMG_9485.jpg
+2025-12-03 10:51:01,210 - INFO - Original format: .jpg
+2025-12-03 10:51:01,210 - INFO - Original size: 2.79 MB
+2025-12-03 10:51:01,215 - INFO - Dimensions: 5328x4000
+2025-12-03 10:51:01,215 - INFO - Color mode: RGB
+2025-12-03 10:51:01,216 - INFO - Converting RGB to RGBA
+2025-12-03 10:51:28,298 - INFO - Converted size: 24.52 MB
+2025-12-03 10:51:28,299 - INFO - Size increase: +21.74 MB (780.4%)
+2025-12-03 10:51:28,299 - INFO - Successfully saved to: converted\IMG_9485.png
+2025-12-03 10:51:28,299 - INFO - ------------------------------------------------------------
+2025-12-03 10:51:28,311 - INFO - Processing: IMG_9487.jpg
+2025-12-03 10:51:28,311 - INFO - Original format: .jpg
+2025-12-03 10:51:28,311 - INFO - Original size: 3.51 MB
+2025-12-03 10:51:28,318 - INFO - Dimensions: 5328x4000
+2025-12-03 10:51:28,318 - INFO - Color mode: RGB
+2025-12-03 10:51:28,318 - INFO - Converting RGB to RGBA
+2025-12-03 10:51:42,917 - INFO - Converted size: 26.59 MB
+2025-12-03 10:51:42,917 - INFO - Size increase: +23.08 MB (657.0%)
+2025-12-03 10:51:42,918 - INFO - Successfully saved to: converted\IMG_9487.png
+2025-12-03 10:51:42,918 - INFO - ------------------------------------------------------------
+2025-12-03 10:51:42,929 - INFO - Processing: IMG_9489.jpg
+2025-12-03 10:51:42,929 - INFO - Original format: .jpg
+2025-12-03 10:51:42,930 - INFO - Original size: 2.88 MB
+2025-12-03 10:51:42,934 - INFO - Dimensions: 5328x4000
+2025-12-03 10:51:42,935 - INFO - Color mode: RGB
+2025-12-03 10:51:42,935 - INFO - Converting RGB to RGBA
+2025-12-03 10:52:07,482 - INFO - Converted size: 24.27 MB
+2025-12-03 10:52:07,483 - INFO - Size increase: +21.39 MB (743.0%)
+2025-12-03 10:52:07,483 - INFO - Successfully saved to: converted\IMG_9489.png
+2025-12-03 10:52:07,483 - INFO - ------------------------------------------------------------
+2025-12-03 10:52:07,495 - INFO - Processing: IMG_9490.jpg
+2025-12-03 10:52:07,495 - INFO - Original format: .jpg
+2025-12-03 10:52:07,495 - INFO - Original size: 2.98 MB
+2025-12-03 10:52:07,500 - INFO - Dimensions: 5328x4000
+2025-12-03 10:52:07,500 - INFO - Color mode: RGB
+2025-12-03 10:52:07,501 - INFO - Converting RGB to RGBA
+2025-12-03 10:52:28,903 - INFO - Converted size: 24.91 MB
+2025-12-03 10:52:28,904 - INFO - Size increase: +21.94 MB (737.1%)
+2025-12-03 10:52:28,904 - INFO - Successfully saved to: converted\IMG_9490.png
+2025-12-03 10:52:28,904 - INFO - ------------------------------------------------------------
+2025-12-03 10:52:28,915 - INFO - Processing: IMG_9492.jpg
+2025-12-03 10:52:28,915 - INFO - Original format: .jpg
+2025-12-03 10:52:28,916 - INFO - Original size: 2.82 MB
+2025-12-03 10:52:28,917 - INFO - Dimensions: 5328x4000
+2025-12-03 10:52:28,917 - INFO - Color mode: RGB
+2025-12-03 10:52:28,917 - INFO - Converting RGB to RGBA
+2025-12-03 10:52:50,977 - INFO - Converted size: 24.65 MB
+2025-12-03 10:52:50,977 - INFO - Size increase: +21.83 MB (774.0%)
+2025-12-03 10:52:50,978 - INFO - Successfully saved to: converted\IMG_9492.png
+2025-12-03 10:52:50,978 - INFO - ------------------------------------------------------------
+2025-12-03 10:52:50,986 - INFO - Processing: IMG_9493.jpg
+2025-12-03 10:52:50,987 - INFO - Original format: .jpg
+2025-12-03 10:52:50,987 - INFO - Original size: 3.20 MB
+2025-12-03 10:52:50,988 - INFO - Dimensions: 5328x4000
+2025-12-03 10:52:50,988 - INFO - Color mode: RGB
+2025-12-03 10:52:50,989 - INFO - Converting RGB to RGBA
+2025-12-03 10:53:11,031 - INFO - Converted size: 26.59 MB
+2025-12-03 10:53:11,031 - INFO - Size increase: +23.39 MB (729.8%)
+2025-12-03 10:53:11,031 - INFO - Successfully saved to: converted\IMG_9493.png
+2025-12-03 10:53:11,031 - INFO - ------------------------------------------------------------
+2025-12-03 10:53:11,044 - INFO - Processing: IMG_9497.jpg
+2025-12-03 10:53:11,046 - INFO - Original format: .jpg
+2025-12-03 10:53:11,046 - INFO - Original size: 3.22 MB
+2025-12-03 10:53:11,047 - INFO - Dimensions: 5328x4000
+2025-12-03 10:53:11,048 - INFO - Color mode: RGB
+2025-12-03 10:53:11,048 - INFO - Converting RGB to RGBA
+2025-12-03 10:53:30,836 - INFO - Converted size: 26.18 MB
+2025-12-03 10:53:30,836 - INFO - Size increase: +22.96 MB (712.3%)
+2025-12-03 10:53:30,836 - INFO - Successfully saved to: converted\IMG_9497.png
+2025-12-03 10:53:30,837 - INFO - ------------------------------------------------------------
+2025-12-03 10:53:30,852 - INFO - Processing: IMG_9498.jpg
+2025-12-03 10:53:30,852 - INFO - Original format: .jpg
+2025-12-03 10:53:30,852 - INFO - Original size: 2.81 MB
+2025-12-03 10:53:30,853 - INFO - Dimensions: 5328x4000
+2025-12-03 10:53:30,854 - INFO - Color mode: RGB
+2025-12-03 10:53:30,854 - INFO - Converting RGB to RGBA
+2025-12-03 10:53:54,883 - INFO - Converted size: 24.44 MB
+2025-12-03 10:53:54,884 - INFO - Size increase: +21.63 MB (769.6%)
+2025-12-03 10:53:54,884 - INFO - Successfully saved to: converted\IMG_9498.png
+2025-12-03 10:53:54,884 - INFO - ------------------------------------------------------------
+2025-12-03 10:53:54,899 - INFO - Processing: IMG_9499.jpg
+2025-12-03 10:53:54,899 - INFO - Original format: .jpg
+2025-12-03 10:53:54,899 - INFO - Original size: 2.81 MB
+2025-12-03 10:53:54,904 - INFO - Dimensions: 5328x4000
+2025-12-03 10:53:54,904 - INFO - Color mode: RGB
+2025-12-03 10:53:54,904 - INFO - Converting RGB to RGBA
+2025-12-03 10:54:16,938 - INFO - Converted size: 24.51 MB
+2025-12-03 10:54:16,938 - INFO - Size increase: +21.70 MB (772.8%)
+2025-12-03 10:54:16,938 - INFO - Successfully saved to: converted\IMG_9499.png
+2025-12-03 10:54:16,938 - INFO - ------------------------------------------------------------
+2025-12-03 10:54:16,951 - INFO - Processing: IMG_9500.jpg
+2025-12-03 10:54:16,951 - INFO - Original format: .jpg
+2025-12-03 10:54:16,952 - INFO - Original size: 2.90 MB
+2025-12-03 10:54:16,956 - INFO - Dimensions: 5328x4000
+2025-12-03 10:54:16,957 - INFO - Color mode: RGB
+2025-12-03 10:54:16,957 - INFO - Converting RGB to RGBA
+2025-12-03 10:54:37,897 - INFO - Converted size: 24.75 MB
+2025-12-03 10:54:37,897 - INFO - Size increase: +21.85 MB (753.6%)
+2025-12-03 10:54:37,897 - INFO - Successfully saved to: converted\IMG_9500.png
+2025-12-03 10:54:37,898 - INFO - ------------------------------------------------------------
+2025-12-03 10:54:37,909 - INFO - Processing: IMG_9501.jpg
+2025-12-03 10:54:37,909 - INFO - Original format: .jpg
+2025-12-03 10:54:37,909 - INFO - Original size: 2.88 MB
+2025-12-03 10:54:37,913 - INFO - Dimensions: 5328x4000
+2025-12-03 10:54:37,914 - INFO - Color mode: RGB
+2025-12-03 10:54:37,914 - INFO - Converting RGB to RGBA
+2025-12-03 10:54:58,270 - INFO - Converted size: 24.38 MB
+2025-12-03 10:54:58,270 - INFO - Size increase: +21.50 MB (745.3%)
+2025-12-03 10:54:58,270 - INFO - Successfully saved to: converted\IMG_9501.png
+2025-12-03 10:54:58,271 - INFO - ------------------------------------------------------------
+2025-12-03 10:54:58,281 - INFO - Processing: IMG_9502.jpg
+2025-12-03 10:54:58,281 - INFO - Original format: .jpg
+2025-12-03 10:54:58,281 - INFO - Original size: 3.08 MB
+2025-12-03 10:54:58,282 - INFO - Dimensions: 5328x4000
+2025-12-03 10:54:58,283 - INFO - Color mode: RGB
+2025-12-03 10:54:58,283 - INFO - Converting RGB to RGBA
+2025-12-03 10:55:18,018 - INFO - Converted size: 25.79 MB
+2025-12-03 10:55:18,018 - INFO - Size increase: +22.70 MB (736.2%)
+2025-12-03 10:55:18,018 - INFO - Successfully saved to: converted\IMG_9502.png
+2025-12-03 10:55:18,019 - INFO - ------------------------------------------------------------
+2025-12-03 10:55:18,027 - INFO - ============================================================
+2025-12-03 10:55:18,028 - INFO - Batch PNG conversion completed
+2025-12-03 10:55:18,028 - INFO - Successfully converted: 94
+2025-12-03 10:55:18,028 - INFO - Already PNG (optimized): 0
+2025-12-03 10:55:18,028 - INFO - Failed: 0
+2025-12-03 10:55:18,029 - INFO - Total processed: 94
+2025-12-03 10:55:18,029 - INFO - ============================================================
